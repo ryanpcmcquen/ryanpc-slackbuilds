@@ -1,0 +1,9 @@
+All your favorite dev tools and more
+
+Firefox Developer Edition brings your core dev tools together 
+with some powerful new ones that will extend your ability to 
+work across multiple platforms from one place. 
+It’s everything you’re used to, only better. And only from Firefox.
+
+Since the executable is still called 'firefox', it is symlinked to /usr/bin/ as 'fde'.
+
