@@ -27,8 +27,6 @@ system/autocutsel
 
 system/autojump
 
-system/cdw
-
 system/fio
 
 system/gdmap
