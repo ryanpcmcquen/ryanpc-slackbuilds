@@ -35,7 +35,7 @@ rm -v ~/ffmpeg-download-page.html
 
 wget -N "$(tr -d '\n\r' < ~/ffmpegStableDownloadLink)" -o ~/ffmpeg-wgetOutput
 cat ~/ffmpeg-wgetOutput
-if [ ! -z "$(cat ~/ffmpeg-wgetOutput | grep 'no newer than local file')" ]; then
+if [ "$(cat ~/ffmpeg-wgetOutput | grep 'no newer than local file')" ]; then
   rm -v ~/ffmpeg-wgetOutput
   exit 1
 fi
