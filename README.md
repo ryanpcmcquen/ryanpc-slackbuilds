@@ -12,6 +12,8 @@ http://slackbuilds.org/apps/awn-extras/
 
 http://slackbuilds.org/apps/betty/
 
+http://slackbuilds.org/apps/bfg/
+
 http://slackbuilds.org/apps/bibus/
 
 http://slackbuilds.org/apps/bigloo/
@@ -21,6 +23,8 @@ http://slackbuilds.org/apps/blender/
 http://slackbuilds.org/apps/brackets/
 
 http://slackbuilds.org/apps/burp/
+
+http://slackbuilds.org/apps/cdw/
 
 http://slackbuilds.org/apps/cellwriter/
 
@@ -43,6 +47,10 @@ http://slackbuilds.org/apps/dump/
 http://slackbuilds.org/apps/dwm/
 
 http://slackbuilds.org/apps/e_dbus/
+
+http://slackbuilds.org/apps/ebe/
+
+http://slackbuilds.org/apps/econnman/
 
 http://slackbuilds.org/apps/ecore/
 
@@ -98,6 +106,8 @@ http://slackbuilds.org/apps/glpk/
 
 http://slackbuilds.org/apps/gmrun/
 
+http://slackbuilds.org/apps/gmtp/
+
 http://slackbuilds.org/apps/gnonlin/
 
 http://slackbuilds.org/apps/gnustep-startup/
@@ -112,11 +122,15 @@ http://slackbuilds.org/apps/groovy/
 
 http://slackbuilds.org/apps/gtk-engines/
 
+http://slackbuilds.org/apps/gtk-kde4/
+
 http://slackbuilds.org/apps/hexedit/
 
 http://slackbuilds.org/apps/hipchat/
 
 http://slackbuilds.org/apps/imlib2/
+
+http://slackbuilds.org/apps/iojs/
 
 http://slackbuilds.org/apps/ip2location-c/
 
