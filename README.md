@@ -6,6 +6,8 @@ http://slackbuilds.org/apps/apulse/
 
 http://slackbuilds.org/apps/asterixInspector/
 
+http://slackbuilds.org/apps/astyle/
+
 http://slackbuilds.org/apps/avant-window-navigator/
 
 http://slackbuilds.org/apps/awn-extras/
@@ -72,6 +74,8 @@ http://slackbuilds.org/apps/emotion/
 
 http://slackbuilds.org/apps/enigma/
 
+http://slackbuilds.org/apps/enki/
+
 http://slackbuilds.org/apps/enlightenment/
 
 http://slackbuilds.org/apps/etherape/
@@ -81,6 +85,8 @@ http://slackbuilds.org/apps/ethumb/
 http://slackbuilds.org/apps/evas/
 
 http://slackbuilds.org/apps/evolus-pencil/
+
+http://slackbuilds.org/apps/exaile/
 
 http://slackbuilds.org/apps/extrema/
 
@@ -212,6 +218,8 @@ http://slackbuilds.org/apps/qhull/
 
 http://slackbuilds.org/apps/quilt/
 
+http://slackbuilds.org/apps/qutepart/
+
 http://slackbuilds.org/apps/recode/
 
 http://slackbuilds.org/apps/ripit/
@@ -249,6 +257,10 @@ http://slackbuilds.org/apps/tagtool/
 http://slackbuilds.org/apps/tarsnap/
 
 http://slackbuilds.org/apps/terminology/
+
+http://slackbuilds.org/apps/textadept/
+
+http://slackbuilds.org/apps/thunderpad/
 
 http://slackbuilds.org/apps/tilda/
 
