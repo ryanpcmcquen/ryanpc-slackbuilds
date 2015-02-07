@@ -22,6 +22,8 @@ http://slackbuilds.org/apps/bigloo/
 
 http://slackbuilds.org/apps/blender/
 
+http://slackbuilds.org/apps/bluefish/
+
 http://slackbuilds.org/apps/brackets/
 
 http://slackbuilds.org/apps/burp/
@@ -130,6 +132,8 @@ http://slackbuilds.org/apps/gtk-engines/
 
 http://slackbuilds.org/apps/gtk-kde4/
 
+http://slackbuilds.org/apps/gtkextra/
+
 http://slackbuilds.org/apps/hexedit/
 
 http://slackbuilds.org/apps/hipchat/
@@ -215,6 +219,8 @@ http://slackbuilds.org/apps/patchage/
 http://slackbuilds.org/apps/pitivi/
 
 http://slackbuilds.org/apps/qhull/
+
+http://slackbuilds.org/apps/qt3/
 
 http://slackbuilds.org/apps/quilt/
 
