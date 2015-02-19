@@ -26,6 +26,8 @@ http://slackbuilds.org/apps/bluefish/
 
 http://slackbuilds.org/apps/brackets/
 
+http://slackbuilds.org/apps/brlcad/
+
 http://slackbuilds.org/apps/burp/
 
 http://slackbuilds.org/apps/cdw/
@@ -168,6 +170,8 @@ http://slackbuilds.org/apps/libmediainfo/
 
 http://slackbuilds.org/apps/libnova/
 
+http://slackbuilds.org/apps/libtar/
+
 http://slackbuilds.org/apps/libzen/
 
 http://slackbuilds.org/apps/licq/
@@ -238,8 +242,6 @@ http://slackbuilds.org/apps/simsu/
 
 http://slackbuilds.org/apps/skype4pidgin/
 
-http://slackbuilds.org/apps/slim/
-
 http://slackbuilds.org/apps/smalltalk/
 
 http://slackbuilds.org/apps/spacefm/
@@ -288,9 +290,13 @@ http://slackbuilds.org/apps/winetricks/
 
 http://slackbuilds.org/apps/wput/
 
+http://slackbuilds.org/apps/wxGTK/
+
 http://slackbuilds.org/apps/x-tile/
 
 http://slackbuilds.org/apps/xinetd/
+
+http://slackbuilds.org/apps/xspacewarp/
 
 http://slackbuilds.org/apps/zyGrib/
 
