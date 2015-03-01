@@ -274,6 +274,8 @@ http://slackbuilds.org/apps/tilda/
 
 http://slackbuilds.org/apps/tinyterm/
 
+http://slackbuilds.org/apps/tinyvm/
+
 http://slackbuilds.org/apps/ttf-ubuntu-font-family/
 
 http://slackbuilds.org/apps/uemacs/
