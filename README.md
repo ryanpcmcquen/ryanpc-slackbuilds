@@ -1,5 +1,7 @@
 http://slackbuilds.org/apps/LOIC/
 
+http://slackbuilds.org/apps/ValyriaTear/
+
 http://slackbuilds.org/apps/alloy/
 
 http://slackbuilds.org/apps/apulse/
