@@ -112,6 +112,8 @@ http://slackbuilds.org/apps/gcp/
 
 http://slackbuilds.org/apps/giblib/
 
+http://slackbuilds.org/apps/gisto/
+
 http://slackbuilds.org/apps/gloox/
 
 http://slackbuilds.org/apps/glpk/
