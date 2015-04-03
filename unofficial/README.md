@@ -1,10 +1,6 @@
 ###not in slackbuilds.org
 
 
-libraries/ucl
-
-misc/fbdump
-
 misc/ibus-unikey
 
 misc/stardict
