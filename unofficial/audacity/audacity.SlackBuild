@@ -30,7 +30,7 @@
 # Modified by the SlackBuilds.org project
 
 PRGNAM=audacity
-VERSION=${VERSION:-2.0.6}
+VERSION=${VERSION:-2.1.0}
 BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
 
@@ -76,17 +76,19 @@ tar xvf $CWD/$PRGNAM-minsrc-$VERSION.tar.?z*
 cd $PRGNAM-src-$VERSION
 chown -R root:root .
 find -L . \
- \( -perm 777 -o -perm 775 -o -perm 750 -o -perm 711 -o -perm 555 -o -perm 511 \) \
- -exec chmod 755 {} \; -o \
- \( -perm 666 -o -perm 664 -o -perm 600 -o -perm 444 -o -perm 440 -o -perm 400 \) \
- -exec chmod 644 {} \;
+ \( -perm 777 -o -perm 775 -o -perm 750 -o -perm 711 -o -perm 555 \
+  -o -perm 511 \) -exec chmod 755 {} \; -o \
+ \( -perm 666 -o -perm 664 -o -perm 640 -o -perm 600 -o -perm 444 \
+  -o -perm 440 -o -perm 400 \) -exec chmod 644 {} \;
 
 # Fix vamp plugin search path on x86_64 - thanks to B. Watson
 sed -i "s,lib/vamp,lib$LIBDIRSUFFIX/vamp,g" \
        lib-src/libvamp/src/vamp-hostsdk/PluginHostAdapter.cpp
 
 ## another vamp fix
-rm -v /usr/lib${LIBDIRSUFFIX}/libvamp*.la
+if [ `find /usr/lib${LIBDIRSUFFIX}/ -name libvamp*.la` ]; then
+  rm -v /usr/lib${LIBDIRSUFFIX}/libvamp*.la
+fi
 
 ## --disable-dynamic-loading allows a newer ffmpeg to be used
 # libsoxr is the new default resampling library
@@ -105,16 +107,18 @@ CXXFLAGS="$SLKCFLAGS" \
   --with-libsndfile \
   --with-libid3tag \
   --with-libsoxr \
-  --disable-dynamic-loading \
   --with$do_ffmpeg-ffmpeg \
   --with$do_soundtouch-soundtouch \
   --with$do_twolame-libtwolame \
   --with$do_vamp-libvamp
 
+## doesn't seem to be needed with 2.1.0
+#  --disable-dynamic-loading \
+
 make
 make install DESTDIR=$PKG
 
-find $PKG | xargs file | grep -e "executable" -e "shared object" | grep ELF \
+find $PKG -print0 | xargs -0 file | grep -e "executable" -e "shared object" | grep ELF \
   | cut -f 1 -d : | xargs strip --strip-unneeded 2> /dev/null || true
 
 # We're going to overwrite the included audacity.desktop file with ours,
