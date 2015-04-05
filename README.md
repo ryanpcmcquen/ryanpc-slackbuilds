@@ -96,6 +96,8 @@ http://slackbuilds.org/apps/exaile/
 
 http://slackbuilds.org/apps/extrema/
 
+http://slackbuilds.org/apps/fbdump/
+
 http://slackbuilds.org/apps/file-roller/
 
 http://slackbuilds.org/apps/freeciv/
@@ -281,6 +283,8 @@ http://slackbuilds.org/apps/tinyterm/
 http://slackbuilds.org/apps/tinyvm/
 
 http://slackbuilds.org/apps/ttf-ubuntu-font-family/
+
+http://slackbuilds.org/apps/ucl/
 
 http://slackbuilds.org/apps/uemacs/
 
