@@ -3,8 +3,6 @@
 
 misc/ibus-unikey
 
-misc/stardict
-
 misc/xvnkb
 
 network/fdm
