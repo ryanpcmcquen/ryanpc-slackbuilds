@@ -228,6 +228,20 @@ http://slackbuilds.org/apps/patchage/
 
 http://slackbuilds.org/apps/pitivi/
 
+http://slackbuilds.org/apps/python-e_dbus/
+
+http://slackbuilds.org/apps/python-ecore/
+
+http://slackbuilds.org/apps/python-edje/
+
+http://slackbuilds.org/apps/python-elementary/
+
+http://slackbuilds.org/apps/python-emotion/
+
+http://slackbuilds.org/apps/python-ethumb/
+
+http://slackbuilds.org/apps/python-evas/
+
 http://slackbuilds.org/apps/qhull/
 
 http://slackbuilds.org/apps/qt3/
@@ -261,6 +275,8 @@ http://slackbuilds.org/apps/spotify64/
 http://slackbuilds.org/apps/sqlitebrowser/
 
 http://slackbuilds.org/apps/src-vcs/
+
+http://slackbuilds.org/apps/stardict/
 
 http://slackbuilds.org/apps/superkey-launch/
 
