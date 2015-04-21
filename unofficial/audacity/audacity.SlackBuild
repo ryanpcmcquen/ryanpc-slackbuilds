@@ -110,6 +110,7 @@ CXXFLAGS="$SLKCFLAGS" \
   --with$do_twolame \
   --with$do_vamp \
   --without-libresample \
+  --disable-dynamic-loading \
   --without-libsamplerate
 
 # ensure we use the system headers for these, note we do this after
