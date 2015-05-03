@@ -90,6 +90,7 @@ sed -i "s,lib/vamp,lib$LIBDIRSUFFIX/vamp,g" \
 # libsoxr is the new default resampling library
 CFLAGS="$SLKCFLAGS" \
 CXXFLAGS="$SLKCFLAGS" \
+LDFLAGS="-L/usr/lib${LIBDIRSUFFIX}" \
 ./configure \
   --prefix=/usr \
   --libdir=/usr/lib${LIBDIRSUFFIX} \
