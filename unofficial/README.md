@@ -39,11 +39,6 @@ desktop/obmenu
 
 desktop/openbox-themes
 
-development/google-appengine-pysdk
-
-development/google-appengine-gosdk
-
-
 
 
 
