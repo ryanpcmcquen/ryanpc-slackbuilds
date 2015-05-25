@@ -2,6 +2,8 @@ http://slackbuilds.org/apps/LOIC/
 
 http://slackbuilds.org/apps/ValyriaTear/
 
+http://slackbuilds.org/apps/allegro/
+
 http://slackbuilds.org/apps/alloy/
 
 http://slackbuilds.org/apps/apulse/
@@ -127,6 +129,10 @@ http://slackbuilds.org/apps/gmtp/
 http://slackbuilds.org/apps/gnonlin/
 
 http://slackbuilds.org/apps/gnustep-startup/
+
+http://slackbuilds.org/apps/google-appengine-gosdk/
+
+http://slackbuilds.org/apps/google-appengine-pysdk/
 
 http://slackbuilds.org/apps/google-droid-fonts/
 
