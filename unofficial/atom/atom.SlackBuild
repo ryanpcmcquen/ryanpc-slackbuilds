@@ -30,7 +30,7 @@ PRGNAM=atom
 wget -N https://github.com/atom/atom/releases
 
 ## change the filename so it is under .gitignore criteria
-mv $CWD/releases $CWD/releases.html
+mv releases releases.html
 
 ## old fashioned version finding
 ATOMVERSION=$(cat releases.html | grep -A5 'Latest release' | tail -1 | cut -d/ -f5 | cut -d'"' -f1)
