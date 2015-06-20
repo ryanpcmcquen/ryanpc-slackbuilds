@@ -128,6 +128,9 @@ ssl=""      ; [ "${OPENSSL:-no}" != "no" ]     && \
 openjpeg=""     ; [ "${JP2:-no}" != "no" ]      && \
   { openjpeg="--enable-libopenjpeg" ; \
     SLKCFLAGS="$SLKCFLAGS -I/usr/include/openjpeg-1.5" ; }
+decklink=""   ; [ "${DECKLINK:-no}" != "no" ]   && \
+  { decklink="--enable-decklink" ; \
+    SLKCFLAGS="$SLKCFLAGS -I/usr/include/decklink" ; }
 
 # zeromq support requires zeromq > 3.x
 #libzmq=""     ; [ "${ZMQ:-no}" != "no" ]          && libzmq="--enable-libzmq"
@@ -216,6 +219,7 @@ CXXFLAGS="$SLKCFLAGS" \
   $libx265 \
   $libzvbi \
   $libopencv \
+  $decklink \
   $ssl
 
 make
