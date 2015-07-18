@@ -30,7 +30,20 @@
 # Modified by the SlackBuilds.org project
 
 PRGNAM=audacity
-VERSION=${VERSION:-2.1.0}
+
+## download the source page so we can parse it
+wget -N audacityteam.org/download/source
+
+## change the filename so it is under .gitignore criteria
+mv source source.html
+
+## old fashioned version finding
+AUDACITYVERSION=$(cat source.html | grep minsrc | cut -d'"' -f2)
+export VERSION=$(echo $AUDACITYVERSION | cut -d- -f3 | sed 's/.tar.*//g')
+
+## download the source
+wget -N $AUDACITYVERSION
+
 BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
 
@@ -145,3 +158,5 @@ cat $CWD/doinst.sh > $PKG/install/doinst.sh
 
 cd $PKG
 /sbin/makepkg -l y -c n $OUTPUT/$PRGNAM-$VERSION-$ARCH-$BUILD$TAG.${PKGTYPE:-tgz}
+
+rm $CWD/source.html
