@@ -83,9 +83,9 @@ set -e
 rm -rf $PKG
 mkdir -p $TMP $PKG $OUTPUT
 cd $TMP
-rm -rf $PRGNAM-src-$VERSION
-tar xvf $CWD/$PRGNAM-src-$VERSION.tar.?z*
-cd $PRGNAM-src-$VERSION
+rm -rf $PRGNAM-minsrc-$VERSION
+tar xvf $CWD/$PRGNAM-minsrc-$VERSION.tar.?z*
+cd $PRGNAM-minsrc-$VERSION
 chown -R root:root .
 find -L . \
  \( -perm 777 -o -perm 775 -o -perm 750 -o -perm 711 -o -perm 555 -o -perm 511 \) \
