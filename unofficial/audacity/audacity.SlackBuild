@@ -42,7 +42,7 @@ AUDACITYVERSION=$(cat source.html | grep minsrc | cut -d'"' -f2)
 export VERSION=$(echo $AUDACITYVERSION | cut -d- -f3 | sed 's/.tar.*//g')
 
 ## download the source
-wget -N $AUDACITYVERSION
+curl $AUDACITYVERSION | grep "download.fosshub" | cut -d'"' -f8 | xargs -i wget -N {}
 
 BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
