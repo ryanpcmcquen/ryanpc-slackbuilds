@@ -90,6 +90,9 @@ if [ "$DISABLE_METRICS" == "yes" ]; then
     sed -i '/"metrics":/d' package.json
 fi
 
+## fix package dependency (upstream will merge this on the next release)
+sed -i 's/"runas": "^2",/"runas": "^3.1",/g' build/package.json
+
 echo '*********************************************************************'
 echo '* The installation process will download a lot of modules for atom. *'
 echo '*********************************************************************'
