@@ -24,10 +24,10 @@
 # OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
 # ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-PRGNAM=atom
+PRGNAM=${PRGNAM:-atom}
 
 ## download the release page so we can parse it
-wget -N https://github.com/atom/atom/releases
+wget -N https://github.com/${PRGNAM}/${PRGNAM}/releases
 
 ## change the filename so it is under .gitignore criteria
 mv releases releases.html
@@ -37,7 +37,7 @@ ATOMVERSION=$(cat releases.html | grep -A5 'Latest release' | tail -1 | cut -d/ 
 export VERSION=$(echo $ATOMVERSION | sed 's/v//g')
 
 ## download the source
-wget -N https://github.com/atom/atom/archive/$ATOMVERSION.tar.gz
+wget -N https://github.com/${PRGNAM}/${PRGNAM}/archive/${ATOMVERSION}.tar.gz
 
 BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
@@ -90,12 +90,9 @@ if [ "$DISABLE_METRICS" == "yes" ]; then
     sed -i '/"metrics":/d' package.json
 fi
 
-## fix package dependency (upstream will merge this on the next release)
-sed -i 's/"runas": "^2",/"runas": "^3.1",/g' build/package.json
-
-echo '*********************************************************************'
-echo '* The installation process will download a lot of modules for atom. *'
-echo '*********************************************************************'
+echo '********************************************'
+echo '* We are about to download a lot of stuff. *'
+echo '********************************************'
 
 mkdir -p destbuild
 BUILD_DIR=$PWD/destbuild
@@ -109,24 +106,24 @@ BUILD_DIR=$PWD/destbuild
 find $PKG -print0 | xargs -0 file | grep -e "executable" -e "shared object" | grep ELF \
   | cut -f 1 -d : | xargs strip --strip-unneeded 2> /dev/null || true
 
-# move apm symlink to atom-apm for prevent conflicts with apmd package.
-mv $PKG/usr/bin/apm $PKG/usr/bin/atom-apm
+# move apm symlink to atom-apm to prevent conflicts with the apmd package.
+mv $PKG/usr/bin/apm $PKG/usr/bin/${PRGNAM}-apm
 
 # move and configure icon and .desktop file
 mkdir -p $PKG/usr/share/pixmaps
-cp -a resources/atom.png \
-    $PKG/usr/share/pixmaps
+cp -a resources/app-icons/stable/png/1024.png \
+    $PKG/usr/share/pixmaps/$PRGNAM.png
 mkdir -p $PKG/usr/share/applications
 sed -e "s#<%= description %>#Hackable text editor#" \
-    -e "s#<%= executable %>#/usr/bin/atom#" \
-    -e "s#<%= iconName %>#atom#" \
-    resources/linux/atom.desktop.in > \
-    $PKG/usr/share/applications/atom.desktop
+    -e "s#<%= executable %>#/usr/bin/${PRGNAM}#" \
+    -e "s#<%= iconName %>#${PRGNAM}#" \
+    resources/linux/${PRGNAM}.desktop.in > \
+    $PKG/usr/share/applications/${PRGNAM}.desktop
 
 
 if [ "$DELETE_CACHE" == "yes" ]; then
     # delete temporal data
-    rm -rf ~/.atom/
+    rm -rf ~/.${PRGNAM}/
 fi
 
 mkdir -p $PKG/usr/doc/$PRGNAM-$VERSION
