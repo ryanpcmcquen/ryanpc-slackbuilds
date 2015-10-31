@@ -166,6 +166,8 @@ http://slackbuilds.org/apps/jokosher/
 
 http://slackbuilds.org/apps/jpegoptim/
 
+http://slackbuilds.org/apps/jsmin/
+
 http://slackbuilds.org/apps/kde-gtk-config/
 
 http://slackbuilds.org/apps/knights/
@@ -329,6 +331,8 @@ http://slackbuilds.org/apps/x-tile/
 http://slackbuilds.org/apps/xinetd/
 
 http://slackbuilds.org/apps/xspacewarp/
+
+http://slackbuilds.org/apps/zed/
 
 http://slackbuilds.org/apps/zyGrib/
 
