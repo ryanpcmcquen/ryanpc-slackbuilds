@@ -86,7 +86,7 @@ find -L . \
  \( -perm 666 -o -perm 664 -o -perm 640 -o -perm 600 -o -perm 444 \
   -o -perm 440 -o -perm 400 \) -exec chmod 644 {} \;
 
-if [ "$DISABLE_METRICS" == "yes" ]; then
+if [ "$DISABLE_METRICS" = "yes" ]; then
     sed -i '/"metrics":/d' package.json
 fi
 
@@ -114,14 +114,11 @@ mkdir -p $PKG/usr/share/pixmaps
 cp -a resources/app-icons/stable/png/1024.png \
     $PKG/usr/share/pixmaps/$PRGNAM.png
 mkdir -p $PKG/usr/share/applications
-sed -e "s#<%= description %>#Hackable text editor#" \
-    -e "s#<%= executable %>#/usr/bin/${PRGNAM}#" \
-    -e "s#<%= iconName %>#${PRGNAM}#" \
-    resources/linux/${PRGNAM}.desktop.in > \
-    $PKG/usr/share/applications/${PRGNAM}.desktop
+## just use our .desktop file so we don't
+## have to go through an absurd search & replace
+cat $CWD/${PRGNAM}.desktop > $PKG/usr/share/applications/${PRGNAM}.desktop
 
-
-if [ "$DELETE_CACHE" == "yes" ]; then
+if [ "$DELETE_CACHE" = "yes" ]; then
     # delete temporal data
     rm -rf ~/.${PRGNAM}/
 fi
