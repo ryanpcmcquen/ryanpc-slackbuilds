@@ -228,6 +228,8 @@ http://slackbuilds.org/apps/nightingale/
 
 http://slackbuilds.org/apps/ninja-ide/
 
+http://slackbuilds.org/apps/nodejs/
+
 http://slackbuilds.org/apps/nsudoku/
 
 http://slackbuilds.org/apps/openoffice.org/
