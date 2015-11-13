@@ -5,17 +5,18 @@ a modern text editor, like a file system browser, fuzzy finder for
 quickly opening files, fast project-wide search and replace,
 snippets, code folding and more.
 
-The apm tool is renamed to atom-apm for prevent conflicts with
-apmd package.
+The apm tool is renamed to atom-apm, to prevent conflicts with
+the apmd package.
 
-To build Atom it is necessary to download about 500MB of data,
-which are temporarily stored in ~/.atom, which can be
-deleted after building.
+To build Atom, about 500MB of data must be downloaded,
+stored in ~/.atom. It can be deleted after building.
 
 Optional building features:
-* Disable compiling metrics module for Google Analytics
-  for poeple who love privacy
-  https://github.com/atom/metrics
+* Disable metrics module for Google Analytics
+  (https://github.com/atom/metrics)
+
     DISABLE_METRICS=yes|no (default: no)
-* Delete temporary data cached after building the package
+
+* Delete temporary data cached after building package
+
     DELETE_CACHE=yes|no (default: no)
