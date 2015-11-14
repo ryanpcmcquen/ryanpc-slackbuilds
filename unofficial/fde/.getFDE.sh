@@ -17,11 +17,11 @@ wget -N https://raw.githubusercontent.com/ryanpcmcquen/ryanpc-slackbuilds/master
 wget -N https://raw.githubusercontent.com/ryanpcmcquen/ryanpc-slackbuilds/master/unofficial/fde/slack-desc -P ~/fde/
 
 ## keep this file around for updates
-wget -N https://raw.githubusercontent.com/ryanpcmcquen/ryanpc-slackbuilds/master/unofficial/fde/getFDE.sh -P ~/
+wget -N https://raw.githubusercontent.com/ryanpcmcquen/ryanpc-slackbuilds/master/unofficial/fde/.getFDE.sh -P ~/
 
 ## automatic daily updates!
-wget -N https://raw.githubusercontent.com/ryanpcmcquen/ryanpc-slackbuilds/master/unofficial/fde/getFDE.sh -P /etc/cron.daily/
-chmod 755 /etc/cron.daily/getFDE.sh
+wget -N https://raw.githubusercontent.com/ryanpcmcquen/ryanpc-slackbuilds/master/unofficial/fde/.getFDE.sh -P /etc/cron.daily/
+chmod 755 /etc/cron.daily/.getFDE.sh
 
 
 cd ~/fde/
