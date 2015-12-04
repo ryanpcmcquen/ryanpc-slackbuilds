@@ -332,6 +332,8 @@ http://slackbuilds.org/apps/x-tile/
 
 http://slackbuilds.org/apps/xinetd/
 
+http://slackbuilds.org/apps/xpad/
+
 http://slackbuilds.org/apps/xspacewarp/
 
 http://slackbuilds.org/apps/zed/
