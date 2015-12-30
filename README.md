@@ -102,6 +102,8 @@ http://slackbuilds.org/apps/fbdump/
 
 http://slackbuilds.org/apps/file-roller/
 
+http://slackbuilds.org/apps/flow/
+
 http://slackbuilds.org/apps/freeciv/
 
 http://slackbuilds.org/apps/ganttproject/
@@ -317,6 +319,8 @@ http://slackbuilds.org/apps/uemacs/
 http://slackbuilds.org/apps/uwm/
 
 http://slackbuilds.org/apps/vlock/
+
+http://slackbuilds.org/apps/watchman/
 
 http://slackbuilds.org/apps/wbar/
 
