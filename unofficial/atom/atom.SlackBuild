@@ -108,9 +108,6 @@ BUILD_DIR=$PWD/destbuild
 find $PKG -print0 | xargs -0 file | grep -e "executable" -e "shared object" | grep ELF \
   | cut -f 1 -d : | xargs strip --strip-unneeded 2> /dev/null || true
 
-# move apm symlink to atom-apm to prevent conflicts with the apmd package.
-mv $PKG/usr/bin/apm $PKG/usr/bin/${PRGNAM}-apm
-
 ## move and configure icons and .desktop file
 (
   cd resources/app-icons/stable/png
