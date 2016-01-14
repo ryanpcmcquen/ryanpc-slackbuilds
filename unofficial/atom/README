@@ -5,9 +5,6 @@ a modern text editor, like a file system browser, fuzzy finder for
 quickly opening files, fast project-wide search and replace,
 snippets, code folding and more.
 
-The apm tool is renamed to atom-apm, to prevent conflicts with
-the apmd package.
-
 To build Atom, about 500MB of data must be downloaded,
 stored in ~/.atom. It can be deleted after building.
 
