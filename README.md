@@ -6,8 +6,6 @@ http://slackbuilds.org/apps/allegro/
 
 http://slackbuilds.org/apps/alloy/
 
-http://slackbuilds.org/apps/apulse/
-
 http://slackbuilds.org/apps/asterixInspector/
 
 http://slackbuilds.org/apps/astyle/
@@ -265,8 +263,6 @@ http://slackbuilds.org/apps/qutepart/
 http://slackbuilds.org/apps/recode/
 
 http://slackbuilds.org/apps/ripit/
-
-http://slackbuilds.org/apps/scons/
 
 http://slackbuilds.org/apps/scrot/
 
