@@ -180,6 +180,8 @@ http://slackbuilds.org/apps/leiningen/
 
 http://slackbuilds.org/apps/libdesktop-agnostic/
 
+http://slackbuilds.org/apps/libgcrypt15/
+
 http://slackbuilds.org/apps/libmediainfo/
 
 http://slackbuilds.org/apps/libnova/
