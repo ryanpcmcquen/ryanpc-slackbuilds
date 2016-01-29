@@ -114,6 +114,10 @@ http://slackbuilds.org/apps/gbrainy/
 
 http://slackbuilds.org/apps/gcp/
 
+http://slackbuilds.org/apps/geany/
+
+http://slackbuilds.org/apps/geany-plugins/
+
 http://slackbuilds.org/apps/giblib/
 
 http://slackbuilds.org/apps/gisto/
@@ -278,9 +282,7 @@ http://slackbuilds.org/apps/spacefm/
 
 http://slackbuilds.org/apps/spin/
 
-http://slackbuilds.org/apps/spotify32/
-
-http://slackbuilds.org/apps/spotify64/
+http://slackbuilds.org/apps/spotify/
 
 http://slackbuilds.org/apps/sqlitebrowser/
 
