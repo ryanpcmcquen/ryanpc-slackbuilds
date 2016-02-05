@@ -91,11 +91,8 @@ cat <<EOT > $PKG/usr/bin/${PRGNAM}
 #!/bin/sh
 /opt/${PRGNAM}/usr/share/${PRGNAM}/${PRGNAM} "\$@"
 EOT
-
+## do not forget to make it executable!
 chmod 755 $PKG/usr/bin/${PRGNAM}
-
-find $PKG -print0 | xargs -0 file | grep -e "executable" -e "shared object" \
-  | grep ELF | cut -f 1 -d : | xargs strip --strip-unneeded 2> /dev/null || true
 
 mkdir -p $PKG/usr/doc/$PRGNAM-$VERSION/
 cat $CWD/$PRGNAM.SlackBuild > $PKG/usr/doc/$PRGNAM-$VERSION/$PRGNAM.SlackBuild
