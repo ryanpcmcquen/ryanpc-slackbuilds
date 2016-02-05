@@ -1,5 +1,7 @@
 http://slackbuilds.org/apps/LOIC/
 
+http://slackbuilds.org/apps/SDL_gfx/
+
 http://slackbuilds.org/apps/ValyriaTear/
 
 http://slackbuilds.org/apps/allegro/
@@ -50,7 +52,11 @@ http://slackbuilds.org/apps/dmg2img/
 
 http://slackbuilds.org/apps/dos2unix/
 
+http://slackbuilds.org/apps/dosbox/
+
 http://slackbuilds.org/apps/dump/
+
+http://slackbuilds.org/apps/dwb/
 
 http://slackbuilds.org/apps/dwm/
 
