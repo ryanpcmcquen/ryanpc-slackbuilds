@@ -89,10 +89,10 @@ mkdir -p $PKG/usr/bin/
 ## we make our own launcher
 cat <<EOT > $PKG/usr/bin/${PRGNAM}
 #!/bin/sh
-/opt/${PRGNAM}/usr/bin/${PRGNAM}
+/opt/${PRGNAM}/usr/share/${PRGNAM}/${PRGNAM} "\$@"
 EOT
 
-ln -sf $PKG/opt/usr/bin/$PRGNAM $PKG/usr/bin/$PRGNAM
+chmod 755 $PKG/usr/bin/${PRGNAM}
 
 find $PKG -print0 | xargs -0 file | grep -e "executable" -e "shared object" \
   | grep ELF | cut -f 1 -d : | xargs strip --strip-unneeded 2> /dev/null || true
