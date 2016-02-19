@@ -33,7 +33,7 @@ wget -N https://github.com/${PRGNAM}/${PRGNAM}/releases
 mv releases releases.html
 
 ## old fashioned version finding
-ATOMVERSION=$(cat releases.html | grep -A5 'Latest release' | tail -1 | cut -d/ -f5 | cut -d'"' -f1)
+ATOMVERSION=$(grep -A5 'Latest release' releases.html | tail -1 | cut -d/ -f5 | cut -d'"' -f1)
 export VERSION=$(echo $ATOMVERSION | sed 's/v//g')
 
 ## download the source
