@@ -29,20 +29,21 @@
 
 # Modified by the SlackBuilds.org project
 
-PRGNAM=audacity
+PRGNAM=${PRGNAM:-audacity}
+SRCNAM=${SRCNAM:-Audacity}
 
-## download the source page so we can parse it
-wget -N audacityteam.org/download/source
+## download the release page so we can parse it
+wget -N https://github.com/${PRGNAM}/${PRGNAM}/releases
 
 ## change the filename so it is under .gitignore criteria
-mv source source.html
+mv releases releases.html
 
 ## old fashioned version finding
-AUDACITYVERSION=$(cat source.html | grep minsrc | cut -d'"' -f2)
-export VERSION=$(echo $AUDACITYVERSION | cut -d- -f3 | sed 's/.tar.*//g')
+PRGVERSION=$(grep -A5 'Latest release' releases.html | tail -1 | cut -d/ -f5 | cut -d'"' -f1)
+export VERSION=$(echo -n $PRGVERSION | sed 's/v//g')
 
 ## download the source
-curl $AUDACITYVERSION | grep "download.fosshub" | cut -d'"' -f8 | xargs -i wget -N {}
+wget -N https://github.com/${PRGNAM}/${PRGNAM}/archive/${PRGVERSION}.tar.gz
 
 BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
@@ -83,9 +84,9 @@ set -e
 rm -rf $PKG
 mkdir -p $TMP $PKG $OUTPUT
 cd $TMP
-rm -rf $PRGNAM-minsrc-$VERSION
-tar xvf $CWD/$PRGNAM-minsrc-$VERSION.tar.?z*
-cd $PRGNAM-minsrc-$VERSION
+rm -rf $PRGNAM-$SRCNAM-$VERSION
+tar xvf $CWD/$PRGNAM-$SRCNAM-$VERSION.tar.?z* || tar xvf $CWD/$SRCNAM-$VERSION.tar.?z*
+cd $PRGNAM-$SRCNAM-$VERSION
 chown -R root:root .
 find -L . \
  \( -perm 777 -o -perm 775 -o -perm 750 -o -perm 711 -o -perm 555 -o -perm 511 \) \
@@ -94,8 +95,8 @@ find -L . \
  -exec chmod 644 {} \;
 
 # fix vamp plugin search path on x86_64 - thanks to B. Watson
-sed -i "s,lib/vamp,lib$LIBDIRSUFFIX/vamp,g" \
-  lib-src/libvamp/src/vamp-hostsdk/PluginHostAdapter.cpp || true
+#sed -i "s,lib/vamp,lib$LIBDIRSUFFIX/vamp,g" \
+#  lib-src/libvamp/src/vamp-hostsdk/PluginHostAdapter.cpp || true
 
 # libsoxr is the new default resampling library
 CFLAGS="$SLKCFLAGS" \
@@ -140,7 +141,7 @@ find $PKG -print0 | xargs -0 file | grep -e "executable" -e "shared object" | gr
 # and the icon isn't added at all by upstream, so we'll do that here
 install -D -m 0644 $CWD/audacity.desktop \
   $PKG/usr/share/applications/audacity.desktop
-install -D -m 0644 images/AudacityLogo48x48.xpm \
+install -D -m 0644 images/${SRCNAM}Logo48x48.xpm \
   $PKG/usr/share/pixmaps/audacity.xpm
 
 # Move manpage directory to the proper location
@@ -159,4 +160,5 @@ cat $CWD/doinst.sh > $PKG/install/doinst.sh
 cd $PKG
 /sbin/makepkg -l y -c n $OUTPUT/$PRGNAM-$VERSION-$ARCH-$BUILD$TAG.${PKGTYPE:-tgz}
 
-rm $CWD/source.html
+rm $CWD/releases.html
+
