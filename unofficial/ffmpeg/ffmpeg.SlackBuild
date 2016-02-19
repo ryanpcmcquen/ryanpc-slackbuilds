@@ -29,13 +29,13 @@
 # Modified by Robby Workman <rworkman@slackbuilds.org>
 
 wget ffmpeg.org/download.html -O ~/ffmpeg-download-page.html
-cat ~/ffmpeg-download-page.html | grep ffmpeg | grep .tar.bz2 | head -1 | cut -d= -f2 | tr -d '"' | \
+grep ffmpeg ~/ffmpeg-download-page.html | grep .tar.bz2 | head -1 | cut -d= -f2 | tr -d '"' | \
   sed 's/\ class//' > ~/ffmpegStableDownloadLink
 rm -v ~/ffmpeg-download-page.html
 
 wget -N "$(tr -d '\n\r' < ~/ffmpegStableDownloadLink)" -o ~/ffmpeg-wgetOutput
 cat ~/ffmpeg-wgetOutput
-if [ "$(cat ~/ffmpeg-wgetOutput | grep 'no newer than local file')" ]; then
+if [ "$(grep 'no newer than local file' ~/ffmpeg-wgetOutput)" ]; then
   rm -v ~/ffmpeg-wgetOutput
   exit 1
 fi
