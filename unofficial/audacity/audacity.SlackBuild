@@ -40,7 +40,7 @@ mv releases releases.html
 
 ## old fashioned version finding
 PRGVERSION=$(grep -A5 'Latest release' releases.html | tail -1 | cut -d/ -f5 | cut -d'"' -f1)
-export VERSION=$(echo -n $PRGVERSION | sed 's/v//g')
+export VERSION=$(echo -n $PRGVERSION | sed 's/v//g' | sed "s/$SRCNAM//g" | sed 's/-//g')
 
 ## download the source
 wget -N https://github.com/${PRGNAM}/${PRGNAM}/archive/${PRGVERSION}.tar.gz
