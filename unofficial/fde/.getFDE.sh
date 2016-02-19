@@ -30,9 +30,9 @@ cd ~/fde/
 
 wget ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-aurora/ \
   -O ~/fde-download-page.html
-cat ~/fde-download-page.html | grep firefox | grep .tar.bz2 | head -1 \
+grep firefox ~/fde-download-page.html | grep .tar.bz2 | head -1 \
   | cut -d'"' -f8 > ~/fdeVersion32
-cat ~/fde-download-page.html | grep firefox | grep .tar.bz2 | head -2 \
+grep firefox ~/fde-download-page.html | grep .tar.bz2 | head -2 \
   | tail -1 | cut -d'"' -f8 > ~/fdeVersion64
 rm -v ~/fde-download-page.html 
 export FDEVER32=${FDEVER32="$(tr -d '\n\r' < ~/fdeVersion32)"}
