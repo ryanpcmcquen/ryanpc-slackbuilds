@@ -276,6 +276,8 @@ http://slackbuilds.org/apps/recode/
 
 http://slackbuilds.org/apps/ripit/
 
+http://slackbuilds.org/apps/scite/
+
 http://slackbuilds.org/apps/scrot/
 
 http://slackbuilds.org/apps/simsu/
