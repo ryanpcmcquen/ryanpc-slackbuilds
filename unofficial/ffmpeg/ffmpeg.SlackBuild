@@ -113,6 +113,8 @@ libvidstab="" ; [ "${VIDSTAB:-no}" != "no" ]      && libvidstab="--enable-libvid
 libx265=""    ; [ "${X265:-no}" != "no" ]         && libx265="--enable-libx265"
 libzvbi=""    ; [ "${ZVBI:-no}" != "no" ]         && libzvbi="--enable-libzvbi"
 libopencv=""  ; [ "${OPENCV:-no}" != "no" ]       && libopencv="--enable-libopencv"
+libgme=""     ; [ "${GME:-no}" != "no" ]          && libgme="--enable-libgme"
+libsnappy=""  ; [ "${SNAPPY:-no}" != "no" ]       && libsnappy="--enable-libsnappy"
 #opencl="";      [ "${OPENCL:-no}" != "no" ]       && opencl="--enable-opencl"
 
 opencore_amr="" ; [ "${OPENCORE:-no}" != "no" ] && \
@@ -135,6 +137,7 @@ mp3lame="--enable-libmp3lame" ; [ "${LAME:-yes}" != "yes" ]   && mp3lame=""
 libx264="--enable-libx264"    ; [ "${X264:-yes}" != "yes" ]   && libx264=""
 libspeex="--enable-libspeex"  ; [ "${SPEEX:-yes}" != "yes" ]  && libspeex=""
 libopenal="--enable-openal"   ; [ "${OPENAL:-yes}" != "yes" ] && libopenal=""
+libwebp="--enable-libwebp"    ; [ "${WEBP:-yes}" != "yes" ]   && libwebp=""
 
 set -e
 
@@ -184,6 +187,10 @@ CXXFLAGS="$SLKCFLAGS -I/usr/include/openmj2-2.1" \
   --enable-libvpx \
   --enable-libpulse \
   --enable-libopenjpeg \
+  --enable-libwavpack \
+  --enable-libfreetype \
+  --enable-libfribidi \
+  --enable-fontconfig \
   --arch=$ARCH \
   $libdc1394 \
   $mp3lame \
@@ -215,6 +222,9 @@ CXXFLAGS="$SLKCFLAGS -I/usr/include/openmj2-2.1" \
   $libzvbi \
   $libopencv \
   $decklink \
+  $libgme \
+  $libsnappy \
+  $libwebp \
   $ssl
 
 make
