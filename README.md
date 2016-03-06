@@ -2,8 +2,6 @@ http://slackbuilds.org/apps/LOIC/
 
 http://slackbuilds.org/apps/SDL_gfx/
 
-http://slackbuilds.org/apps/ValyriaTear/
-
 http://slackbuilds.org/apps/allegro/
 
 http://slackbuilds.org/apps/alloy/
@@ -63,8 +61,6 @@ http://slackbuilds.org/apps/dwm/
 http://slackbuilds.org/apps/e_dbus/
 
 http://slackbuilds.org/apps/ebe/
-
-http://slackbuilds.org/apps/econnman/
 
 http://slackbuilds.org/apps/ecore/
 
@@ -228,8 +224,6 @@ http://slackbuilds.org/apps/mit-scheme/
 
 http://slackbuilds.org/apps/mlton/
 
-http://slackbuilds.org/apps/mono2/
-
 http://slackbuilds.org/apps/mozjpeg/
 
 http://slackbuilds.org/apps/musique/
@@ -251,10 +245,6 @@ http://slackbuilds.org/apps/patchage/
 http://slackbuilds.org/apps/pitivi/
 
 http://slackbuilds.org/apps/python-e_dbus/
-
-http://slackbuilds.org/apps/python-ecore/
-
-http://slackbuilds.org/apps/python-edje/
 
 http://slackbuilds.org/apps/python-elementary/
 
