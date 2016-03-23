@@ -47,7 +47,7 @@ set -e
 rm -rf $PKG
 mkdir -p $TMP $PKG $OUTPUT
 cd $TMP
-rm -rf $PRGNAM\_$VERSION
+rm -rf $PRGNAM
 tar xvf $CWD/$PRGNAM\_$VERSION.tar.gz
 cd $PRGNAM
 chown -R root:root .
