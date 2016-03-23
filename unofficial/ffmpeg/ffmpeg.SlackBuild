@@ -115,6 +115,7 @@ libzvbi=""    ; [ "${ZVBI:-no}" != "no" ]         && libzvbi="--enable-libzvbi"
 libopencv=""  ; [ "${OPENCV:-no}" != "no" ]       && libopencv="--enable-libopencv"
 libgme=""     ; [ "${GME:-no}" != "no" ]          && libgme="--enable-libgme"
 libsnappy=""  ; [ "${SNAPPY:-no}" != "no" ]       && libsnappy="--enable-libsnappy"
+##libwebp=""    ; [ "${WEBP:-no}" != "no" ]         && libwebp="--enable-libwebp"
 #opencl="";      [ "${OPENCL:-no}" != "no" ]       && opencl="--enable-opencl"
 
 opencore_amr="" ; [ "${OPENCORE:-no}" != "no" ] && \
@@ -178,6 +179,7 @@ CXXFLAGS="$SLKCFLAGS -I/usr/include/openmj2-2.1" \
   --enable-swscale \
   --enable-x11grab \
   --enable-avfilter \
+  --enable-avresample \
   --enable-gnutls \
   --enable-libcdio \
   --enable-libssh \
