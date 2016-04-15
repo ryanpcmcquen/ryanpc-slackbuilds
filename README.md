@@ -330,8 +330,6 @@ http://slackbuilds.org/apps/wput/
 
 http://slackbuilds.org/apps/wxGTK/
 
-http://slackbuilds.org/apps/x-tile/
-
 http://slackbuilds.org/apps/xinetd/
 
 http://slackbuilds.org/apps/xpad/
