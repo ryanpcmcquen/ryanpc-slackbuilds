@@ -40,8 +40,6 @@ http://slackbuilds.org/apps/colordiff/
 
 http://slackbuilds.org/apps/connman/
 
-http://slackbuilds.org/apps/copy/
-
 http://slackbuilds.org/apps/cronie/
 
 http://slackbuilds.org/apps/dina-font/
