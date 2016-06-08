@@ -292,8 +292,6 @@ http://slackbuilds.org/apps/supertuxkart/
 
 http://slackbuilds.org/apps/tagtool/
 
-http://slackbuilds.org/apps/tarsnap/
-
 http://slackbuilds.org/apps/terminology/
 
 http://slackbuilds.org/apps/textadept/
