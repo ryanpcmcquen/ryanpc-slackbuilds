@@ -242,6 +242,8 @@ http://slackbuilds.org/apps/patchage/
 
 http://slackbuilds.org/apps/pitivi/
 
+http://slackbuilds.org/apps/pngquant/
+
 http://slackbuilds.org/apps/python-e_dbus/
 
 http://slackbuilds.org/apps/python-elementary/
