@@ -26,6 +26,8 @@ http://slackbuilds.org/apps/blender/
 
 http://slackbuilds.org/apps/bluefish/
 
+http://slackbuilds.org/apps/boxcryptor/
+
 http://slackbuilds.org/apps/brackets/
 
 http://slackbuilds.org/apps/brlcad/
@@ -273,6 +275,8 @@ http://slackbuilds.org/apps/scrot/
 http://slackbuilds.org/apps/simsu/
 
 http://slackbuilds.org/apps/skype4pidgin/
+
+http://slackbuilds.org/apps/slack/
 
 http://slackbuilds.org/apps/smalltalk/
 
