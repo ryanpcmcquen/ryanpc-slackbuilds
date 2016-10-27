@@ -111,9 +111,9 @@ mkdir -p $PKG/usr/share/$PRGNAM/
 mkdir -p $PKG/usr/bin/
 mv $TMP/$PRGNAM-$VERSION/out/$PRGNAM-$VERSION-*/* $PKG/usr/share/$PRGNAM/
 (
-  cd $PKG/usr/share/
-  ln -sf ./$PRGNAM/$PRGNAM ../bin/
-  ln -sf ./$PRGNAM/apm ../bin/
+  cd $PKG/usr/bin/
+  ln -sf ../share/$PRGNAM/$PRGNAM $PRGNAM
+  ln -sf ../share/$PRGNAM/apm apm
 )
 
 ## Move and configure icons and .desktop file:
