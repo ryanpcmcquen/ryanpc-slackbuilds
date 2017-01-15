@@ -34,6 +34,8 @@ http://slackbuilds.org/apps/brlcad/
 
 http://slackbuilds.org/apps/burp/
 
+http://slackbuilds.org/apps/cd-discid/
+
 http://slackbuilds.org/apps/cdw/
 
 http://slackbuilds.org/apps/cellwriter/
@@ -264,6 +266,8 @@ http://slackbuilds.org/apps/quilt/
 
 http://slackbuilds.org/apps/qutepart/
 
+http://slackbuilds.org/apps/ratpoison/
+
 http://slackbuilds.org/apps/recode/
 
 http://slackbuilds.org/apps/ripit/
@@ -327,6 +331,8 @@ http://slackbuilds.org/apps/wbar/
 http://slackbuilds.org/apps/wcd/
 
 http://slackbuilds.org/apps/winetricks/
+
+http://slackbuilds.org/apps/wmii/
 
 http://slackbuilds.org/apps/wput/
 
