@@ -124,13 +124,7 @@ find $PKG -print0 | xargs -0 file | grep -e "executable" -e "shared object" | gr
 # mv $PKG/usr/bin/apm $PKG/usr/bin/atom-apm
 
 ## Move and configure icons and .desktop file:
-(
-  cd resources/app-icons/stable/png
-  for IMG in *; do
-    DIR_NAME=${IMG%.*}x${IMG%.*}
-    install -D $IMG $PKG/usr/share/icons/hicolor/$DIR_NAME/apps/$PRGNAM.png
-  done
-)
+install -D resources/app-icons/stable/png/1024.png $PKG/usr/share/pixmaps/$PRGNAM.png
 
 mkdir -p $PKG/usr/share/applications
 ## Just use our .desktop file so we don't
