@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Slackware build script for atom
+# Slackware build script for Atom
 
 ## Automatic versioning edition by Ryan P.C. McQuen.
 
@@ -100,9 +100,9 @@ PYTHON=python2 \
   ./script/build
 
 # Installation is manual since the --install-dir option was removed.
-# This is based on the spec file from the official RPM package for atom:
+# This is based on the spec file from the official RPM package for Atom:
 install -d $PKG/usr/{bin,doc,share}
-install -d $PKG/usr/share/atom/
+install -d $PKG/usr/share/${PRGNAM}/
 
 # Detect output directory:
 ARCH_OUTPUT="i386"
@@ -110,18 +110,15 @@ if [ "$ARCH" = "x86_64" ]; then
   ARCH_OUTPUT="amd64"
 fi
 
-install -Dm755 atom.sh $PKG/usr/bin/atom
-cp -r out/$PRGNAM-$VERSION-$ARCH_OUTPUT/* $PKG/usr/share/atom/
+install -Dm755 ${PRGNAM}.sh $PKG/usr/bin/${PRGNAM}
+cp -r out/$PRGNAM-$VERSION-$ARCH_OUTPUT/* $PKG/usr/share/${PRGNAM}/
 (
   cd $PKG/usr/bin
-  ln -sf ../share/atom/resources/app/apm/node_modules/.bin/apm apm
+  ln -sf ../share/${PRGNAM}/resources/app/apm/node_modules/.bin/apm apm
 )
 
 find $PKG -print0 | xargs -0 file | grep -e "executable" -e "shared object" | grep ELF \
   | cut -f 1 -d : | xargs strip --strip-unneeded 2> /dev/null || true
-
-# Only use this if you use apmd package from Slackware pastures:
-# mv $PKG/usr/bin/apm $PKG/usr/bin/atom-apm
 
 ## Move and configure icons and .desktop file:
 install -D resources/app-icons/stable/png/1024.png $PKG/usr/share/pixmaps/$PRGNAM.png
