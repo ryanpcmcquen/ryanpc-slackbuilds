@@ -280,15 +280,11 @@ http://slackbuilds.org/apps/simsu/
 
 http://slackbuilds.org/apps/skype4pidgin/
 
-http://slackbuilds.org/apps/slack/
-
 http://slackbuilds.org/apps/smalltalk/
 
 http://slackbuilds.org/apps/spacefm/
 
 http://slackbuilds.org/apps/spin/
-
-http://slackbuilds.org/apps/spotify/
 
 http://slackbuilds.org/apps/sqlitebrowser/
 
