@@ -204,8 +204,6 @@ http://slackbuilds.org/apps/lighttable/
 
 http://slackbuilds.org/apps/linux-libertine-fonts/
 
-http://slackbuilds.org/apps/lumina/
-
 http://slackbuilds.org/apps/lutris/
 
 http://slackbuilds.org/apps/mcrl2/
