@@ -120,8 +120,6 @@ libsnappy=""  ; [ "${SNAPPY:-no}" != "no" ]       && libsnappy="--enable-libsnap
 
 opencore_amr="" ; [ "${OPENCORE:-no}" != "no" ] && \
   opencore_amr="--enable-libopencore-amrnb --enable-libopencore-amrwb"
-libfaac=""      ; [ "${FAAC:-no}" != "no" ]     && \
-  { libfaac="--enable-libfaac" ; non_free="--enable-nonfree" ; }
 fdk=""        ; [ "${FDK_AAC:-no}" != "no" ]      && \
   { fdk="--enable-libfdk-aac"; non_free="--enable-nonfree" ; }
 ssl=""      ; [ "${OPENSSL:-no}" != "no" ]     && \
