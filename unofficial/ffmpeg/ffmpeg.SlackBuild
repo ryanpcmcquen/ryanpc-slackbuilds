@@ -84,23 +84,30 @@ fi
 # not really a point in bothering
 PKGARCH=$(uname -m)_custom
 
+## ryan's custom settings:
+LAME=yes
+X264=yes
+SPEEX=yes
+OPENAL=yes
+WEBP=yes
+
 # Configure ffmpeg features not autodetected by default
 # Unfortunately ffmpeg's configure doesn't support --enable-feature=yes
 # syntax, so we have to do it the complicated way :/
 
-##mp3lame=""    ; [ "${LAME:-no}" != "no" ]         && mp3lame="--enable-libmp3lame"
-##libx264=""    ; [ "${X264:-no}" != "no" ]         && libx264="--enable-libx264"
+mp3lame=""    ; [ "${LAME:-no}" != "no" ]         && mp3lame="--enable-libmp3lame"
+libx264=""    ; [ "${X264:-no}" != "no" ]         && libx264="--enable-libx264"
 libcelt=""    ; [ "${CELT:-no}" != "no" ]         && libcelt="--enable-libcelt"
 libdc1394=""  ; [ "${DC1394:-no}" != "no" ]       && libdc1394="--enable-libdc1394"
 libfrei0r=""  ; [ "${FREI0R:-no}" != "no" ]       && libfrei0r="--enable-frei0r"
 libgsm=""     ; [ "${GSM:-no}" != "no" ]          && libgsm="--enable-libgsm"
 librtmp=""    ; [ "${RTMP:-no}" != "no" ]         && librtmp="--enable-librtmp"
 dirac_fast="" ; [ "${SCHROEDINGER:-no}" != "no" ] && dirac_fast="--enable-libschroedinger"
-##libspeex=""   ; [ "${SPEEX:-no}" != "no" ]        && libspeex="--enable-libspeex"
+libspeex=""   ; [ "${SPEEX:-no}" != "no" ]        && libspeex="--enable-libspeex"
 libxvid=""    ; [ "${XVID:-no}" != "no" ]         && libxvid="--enable-libxvid"
 libbluray=""  ; [ "${BLURAY:-no}" != "no" ]       && libbluray="--enable-libbluray"
 libass=""     ; [ "${ASS:-no}" != "no" ]          && libass="--enable-libass"
-##libopenal=""  ; [ "${OPENAL:-no}" != "no" ]       && libopenal="--enable-openal"
+libopenal=""  ; [ "${OPENAL:-no}" != "no" ]       && libopenal="--enable-openal"
 libiec61883=""; [ "${IEC61883:-no}" != "no" ]     && libiec61883="--enable-libiec61883"
 libilbc=""    ; [ "${ILBC:-no}" != "no" ]         && libilbc="--enable-libilbc"
 libmodplug="" ; [ "${MODPLUG:-no}" != "no" ]      && libmodplug="--enable-libmodplug"
@@ -115,28 +122,21 @@ libzvbi=""    ; [ "${ZVBI:-no}" != "no" ]         && libzvbi="--enable-libzvbi"
 libopencv=""  ; [ "${OPENCV:-no}" != "no" ]       && libopencv="--enable-libopencv"
 libgme=""     ; [ "${GME:-no}" != "no" ]          && libgme="--enable-libgme"
 libsnappy=""  ; [ "${SNAPPY:-no}" != "no" ]       && libsnappy="--enable-libsnappy"
-##libwebp=""    ; [ "${WEBP:-no}" != "no" ]         && libwebp="--enable-libwebp"
-#opencl="";      [ "${OPENCL:-no}" != "no" ]       && opencl="--enable-opencl"
+libwebp=""    ; [ "${WEBP:-no}" != "no" ]         && libwebp="--enable-libwebp"
+#opencl=""    ; [ "${OPENCL:-no}" != "no" ]       && opencl="--enable-opencl"
 
 opencore_amr="" ; [ "${OPENCORE:-no}" != "no" ] && \
   opencore_amr="--enable-libopencore-amrnb --enable-libopencore-amrwb"
-fdk=""        ; [ "${FDK_AAC:-no}" != "no" ]      && \
+fdk=""          ; [ "${FDK_AAC:-no}" != "no" ]  && \
   { fdk="--enable-libfdk-aac"; non_free="--enable-nonfree" ; }
-ssl=""      ; [ "${OPENSSL:-no}" != "no" ]     && \
+ssl=""          ; [ "${OPENSSL:-no}" != "no" ]  && \
   { ssl="--enable-openssl" ; non_free="--enable-nonfree" ; }
 decklink=""   ; [ "${DECKLINK:-no}" != "no" ]   && \
   { decklink="--enable-decklink" ; \
     SLKCFLAGS="$SLKCFLAGS -I/usr/include/decklink" ; }
 
 # zeromq support requires zeromq > 3.x
-#libzmq=""     ; [ "${ZMQ:-no}" != "no" ]          && libzmq="--enable-libzmq"
-
-## ryan's custom settings:
-mp3lame="--enable-libmp3lame" ; [ "${LAME:-yes}" != "yes" ]   && mp3lame=""
-libx264="--enable-libx264"    ; [ "${X264:-yes}" != "yes" ]   && libx264=""
-libspeex="--enable-libspeex"  ; [ "${SPEEX:-yes}" != "yes" ]  && libspeex=""
-libopenal="--enable-openal"   ; [ "${OPENAL:-yes}" != "yes" ] && libopenal=""
-libwebp="--enable-libwebp"    ; [ "${WEBP:-yes}" != "yes" ]   && libwebp=""
+libzmq=""     ; [ "${ZMQ:-no}" != "no" ]          && libzmq="--enable-libzmq"
 
 set -e
 
