@@ -84,7 +84,7 @@ fi
 # not really a point in bothering
 PKGARCH=$(uname -m)_custom
 
-## ryan's custom settings:
+## Ryan's custom settings:
 LAME=${LAME:-yes}
 X264=${X264:-yes}
 SPEEX=${SPEEX:-yes}
