@@ -85,11 +85,11 @@ fi
 PKGARCH=$(uname -m)_custom
 
 ## ryan's custom settings:
-LAME=yes
-X264=yes
-SPEEX=yes
-OPENAL=yes
-WEBP=yes
+LAME=${LAME:-yes}
+X264=${X264:-yes}
+SPEEX=${SPEEX:-yes}
+OPENAL=${OPENAL:-yes}
+WEBP=${WEBP:-yes}
 
 # Configure ffmpeg features not autodetected by default
 # Unfortunately ffmpeg's configure doesn't support --enable-feature=yes
