@@ -196,16 +196,6 @@ https://slackbuilds.org/apps/pitivi/
 
 https://slackbuilds.org/apps/pngquant/
 
-https://slackbuilds.org/apps/python-e_dbus/
-
-https://slackbuilds.org/apps/python-elementary/
-
-https://slackbuilds.org/apps/python-emotion/
-
-https://slackbuilds.org/apps/python-ethumb/
-
-https://slackbuilds.org/apps/python-evas/
-
 https://slackbuilds.org/apps/qhull/
 
 https://slackbuilds.org/apps/qt3/
