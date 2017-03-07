@@ -76,8 +76,6 @@ https://slackbuilds.org/apps/gbrainy/
 
 https://slackbuilds.org/apps/gcp/
 
-https://slackbuilds.org/apps/geany/
-
 https://slackbuilds.org/apps/geany-plugins/
 
 https://slackbuilds.org/apps/giblib/
@@ -209,8 +207,6 @@ https://slackbuilds.org/apps/ratpoison/
 https://slackbuilds.org/apps/ripit/
 
 https://slackbuilds.org/apps/scite/
-
-https://slackbuilds.org/apps/scrot/
 
 https://slackbuilds.org/apps/simsu/
 
