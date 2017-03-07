@@ -1,5 +1,3 @@
-https://slackbuilds.org/apps/Blender/
-
 https://slackbuilds.org/apps/LOIC/
 
 https://slackbuilds.org/apps/SDL_gfx/
@@ -23,6 +21,8 @@ https://slackbuilds.org/apps/bfg/
 https://slackbuilds.org/apps/bibus/
 
 https://slackbuilds.org/apps/bigloo/
+
+https://slackbuilds.org/apps/blender/
 
 https://slackbuilds.org/apps/bluefish/
 
@@ -50,57 +50,25 @@ https://slackbuilds.org/apps/dina-font/
 
 https://slackbuilds.org/apps/dmg2img/
 
-https://slackbuilds.org/apps/dos2unix/
-
 https://slackbuilds.org/apps/dosbox/
-
-https://slackbuilds.org/apps/dump/
 
 https://slackbuilds.org/apps/dwb/
 
 https://slackbuilds.org/apps/dwm/
 
-https://slackbuilds.org/apps/e_dbus/
-
 https://slackbuilds.org/apps/ebe/
-
-https://slackbuilds.org/apps/ecore/
-
-https://slackbuilds.org/apps/edje/
-
-https://slackbuilds.org/apps/eet/
-
-https://slackbuilds.org/apps/efreet/
-
-https://slackbuilds.org/apps/eina/
-
-https://slackbuilds.org/apps/eio/
-
-https://slackbuilds.org/apps/elementary/
-
-https://slackbuilds.org/apps/embryo/
-
-https://slackbuilds.org/apps/emotion/
 
 https://slackbuilds.org/apps/enigma/
 
 https://slackbuilds.org/apps/enki/
 
-https://slackbuilds.org/apps/enlightenment/
-
 https://slackbuilds.org/apps/etherape/
-
-https://slackbuilds.org/apps/ethumb/
-
-https://slackbuilds.org/apps/evas/
 
 https://slackbuilds.org/apps/exaile/
 
 https://slackbuilds.org/apps/extrema/
 
 https://slackbuilds.org/apps/fbdump/
-
-https://slackbuilds.org/apps/file-roller/
 
 https://slackbuilds.org/apps/flow/
 
@@ -180,15 +148,11 @@ https://slackbuilds.org/apps/knights/
 
 https://slackbuilds.org/apps/komparator4/
 
-https://slackbuilds.org/apps/leafpad/
-
 https://slackbuilds.org/apps/leiningen/
 
 https://slackbuilds.org/apps/libdesktop-agnostic/
 
 https://slackbuilds.org/apps/libgcrypt15/
-
-https://slackbuilds.org/apps/libmediainfo/
 
 https://slackbuilds.org/apps/libnova/
 
@@ -207,10 +171,6 @@ https://slackbuilds.org/apps/lutris/
 https://slackbuilds.org/apps/mcrl2/
 
 https://slackbuilds.org/apps/mdp/
-
-https://slackbuilds.org/apps/mediainfo/
-
-https://slackbuilds.org/apps/mediainfo-gui/
 
 https://slackbuilds.org/apps/medit/
 
@@ -264,8 +224,6 @@ https://slackbuilds.org/apps/qutepart/
 
 https://slackbuilds.org/apps/ratpoison/
 
-https://slackbuilds.org/apps/recode/
-
 https://slackbuilds.org/apps/ripit/
 
 https://slackbuilds.org/apps/scite/
@@ -289,10 +247,6 @@ https://slackbuilds.org/apps/src-vcs/
 https://slackbuilds.org/apps/stardict/
 
 https://slackbuilds.org/apps/superkey-launch/
-
-https://slackbuilds.org/apps/supertuxkart/
-
-https://slackbuilds.org/apps/tagtool/
 
 https://slackbuilds.org/apps/terminology/
 
@@ -321,8 +275,6 @@ https://slackbuilds.org/apps/watchman/
 https://slackbuilds.org/apps/wbar/
 
 https://slackbuilds.org/apps/wcd/
-
-https://slackbuilds.org/apps/winetricks/
 
 https://slackbuilds.org/apps/wmii/
 
