@@ -22,8 +22,6 @@ https://slackbuilds.org/apps/bigloo/
 
 https://slackbuilds.org/apps/blender/
 
-https://slackbuilds.org/apps/bluefish/
-
 https://slackbuilds.org/apps/boxcryptor/
 
 https://slackbuilds.org/apps/brackets/
@@ -34,8 +32,6 @@ https://slackbuilds.org/apps/burp/
 
 https://slackbuilds.org/apps/cd-discid/
 
-https://slackbuilds.org/apps/cdw/
-
 https://slackbuilds.org/apps/cellwriter/
 
 https://slackbuilds.org/apps/colordiff/
@@ -45,8 +41,6 @@ https://slackbuilds.org/apps/connman/
 https://slackbuilds.org/apps/cronie/
 
 https://slackbuilds.org/apps/dina-font/
-
-https://slackbuilds.org/apps/dmg2img/
 
 https://slackbuilds.org/apps/dwb/
 
@@ -161,8 +155,6 @@ https://slackbuilds.org/apps/lutris/
 https://slackbuilds.org/apps/mcrl2/
 
 https://slackbuilds.org/apps/mdp/
-
-https://slackbuilds.org/apps/medit/
 
 https://slackbuilds.org/apps/mednafen/
 
