@@ -54,8 +54,6 @@ https://slackbuilds.org/apps/dosbox/
 
 https://slackbuilds.org/apps/dwb/
 
-https://slackbuilds.org/apps/dwm/
-
 https://slackbuilds.org/apps/ebe/
 
 https://slackbuilds.org/apps/enigma/
@@ -247,8 +245,6 @@ https://slackbuilds.org/apps/src-vcs/
 https://slackbuilds.org/apps/stardict/
 
 https://slackbuilds.org/apps/superkey-launch/
-
-https://slackbuilds.org/apps/terminology/
 
 https://slackbuilds.org/apps/textadept/
 
