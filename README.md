@@ -214,8 +214,6 @@ https://slackbuilds.org/apps/skype4pidgin/
 
 https://slackbuilds.org/apps/smalltalk/
 
-https://slackbuilds.org/apps/spacefm/
-
 https://slackbuilds.org/apps/spin/
 
 https://slackbuilds.org/apps/sqlitebrowser/
