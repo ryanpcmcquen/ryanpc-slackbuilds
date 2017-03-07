@@ -1,344 +1,342 @@
-http://slackbuilds.org/apps/LOIC/
+https://slackbuilds.org/apps/Blender/
 
-http://slackbuilds.org/apps/SDL_gfx/
+https://slackbuilds.org/apps/LOIC/
 
-http://slackbuilds.org/apps/allegro/
+https://slackbuilds.org/apps/SDL_gfx/
 
-http://slackbuilds.org/apps/alloy/
+https://slackbuilds.org/apps/allegro/
 
-http://slackbuilds.org/apps/asterixInspector/
+https://slackbuilds.org/apps/alloy/
 
-http://slackbuilds.org/apps/astyle/
+https://slackbuilds.org/apps/asterixInspector/
 
-http://slackbuilds.org/apps/avant-window-navigator/
+https://slackbuilds.org/apps/astyle/
 
-http://slackbuilds.org/apps/awn-extras/
+https://slackbuilds.org/apps/avant-window-navigator/
 
-http://slackbuilds.org/apps/betty/
+https://slackbuilds.org/apps/awn-extras/
 
-http://slackbuilds.org/apps/bfg/
+https://slackbuilds.org/apps/betty/
 
-http://slackbuilds.org/apps/bibus/
+https://slackbuilds.org/apps/bfg/
 
-http://slackbuilds.org/apps/bigloo/
+https://slackbuilds.org/apps/bibus/
 
-http://slackbuilds.org/apps/blender/
+https://slackbuilds.org/apps/bigloo/
 
-http://slackbuilds.org/apps/bluefish/
+https://slackbuilds.org/apps/bluefish/
 
-http://slackbuilds.org/apps/boxcryptor/
+https://slackbuilds.org/apps/boxcryptor/
 
-http://slackbuilds.org/apps/brackets/
+https://slackbuilds.org/apps/brackets/
 
-http://slackbuilds.org/apps/brlcad/
+https://slackbuilds.org/apps/brlcad/
 
-http://slackbuilds.org/apps/burp/
+https://slackbuilds.org/apps/burp/
 
-http://slackbuilds.org/apps/cd-discid/
+https://slackbuilds.org/apps/cd-discid/
 
-http://slackbuilds.org/apps/cdw/
+https://slackbuilds.org/apps/cdw/
 
-http://slackbuilds.org/apps/cellwriter/
+https://slackbuilds.org/apps/cellwriter/
 
-http://slackbuilds.org/apps/colordiff/
+https://slackbuilds.org/apps/colordiff/
 
-http://slackbuilds.org/apps/connman/
+https://slackbuilds.org/apps/connman/
 
-http://slackbuilds.org/apps/cronie/
+https://slackbuilds.org/apps/cronie/
 
-http://slackbuilds.org/apps/dina-font/
+https://slackbuilds.org/apps/dina-font/
 
-http://slackbuilds.org/apps/dmg2img/
+https://slackbuilds.org/apps/dmg2img/
 
-http://slackbuilds.org/apps/dos2unix/
+https://slackbuilds.org/apps/dos2unix/
 
-http://slackbuilds.org/apps/dosbox/
+https://slackbuilds.org/apps/dosbox/
 
-http://slackbuilds.org/apps/dump/
+https://slackbuilds.org/apps/dump/
 
-http://slackbuilds.org/apps/dwb/
+https://slackbuilds.org/apps/dwb/
 
-http://slackbuilds.org/apps/dwm/
+https://slackbuilds.org/apps/dwm/
 
-http://slackbuilds.org/apps/e_dbus/
+https://slackbuilds.org/apps/e_dbus/
 
-http://slackbuilds.org/apps/ebe/
+https://slackbuilds.org/apps/ebe/
 
-http://slackbuilds.org/apps/ecore/
+https://slackbuilds.org/apps/ecore/
 
-http://slackbuilds.org/apps/edje/
+https://slackbuilds.org/apps/edje/
 
-http://slackbuilds.org/apps/eet/
+https://slackbuilds.org/apps/eet/
 
-http://slackbuilds.org/apps/efreet/
+https://slackbuilds.org/apps/efreet/
 
-http://slackbuilds.org/apps/eina/
+https://slackbuilds.org/apps/eina/
 
-http://slackbuilds.org/apps/eio/
+https://slackbuilds.org/apps/eio/
 
-http://slackbuilds.org/apps/elementary/
+https://slackbuilds.org/apps/elementary/
 
-http://slackbuilds.org/apps/embryo/
+https://slackbuilds.org/apps/embryo/
 
-http://slackbuilds.org/apps/emotion/
+https://slackbuilds.org/apps/emotion/
 
-http://slackbuilds.org/apps/enigma/
+https://slackbuilds.org/apps/enigma/
 
-http://slackbuilds.org/apps/enki/
+https://slackbuilds.org/apps/enki/
 
-http://slackbuilds.org/apps/enlightenment/
+https://slackbuilds.org/apps/enlightenment/
 
-http://slackbuilds.org/apps/etherape/
+https://slackbuilds.org/apps/etherape/
 
-http://slackbuilds.org/apps/ethumb/
+https://slackbuilds.org/apps/ethumb/
 
-http://slackbuilds.org/apps/evas/
+https://slackbuilds.org/apps/evas/
 
-http://slackbuilds.org/apps/evolus-pencil/
+https://slackbuilds.org/apps/exaile/
 
-http://slackbuilds.org/apps/exaile/
+https://slackbuilds.org/apps/extrema/
 
-http://slackbuilds.org/apps/extrema/
+https://slackbuilds.org/apps/fbdump/
 
-http://slackbuilds.org/apps/fbdump/
+https://slackbuilds.org/apps/file-roller/
 
-http://slackbuilds.org/apps/file-roller/
+https://slackbuilds.org/apps/flow/
 
-http://slackbuilds.org/apps/flow/
+https://slackbuilds.org/apps/freeciv/
 
-http://slackbuilds.org/apps/freeciv/
+https://slackbuilds.org/apps/ganttproject/
 
-http://slackbuilds.org/apps/ganttproject/
+https://slackbuilds.org/apps/ganv/
 
-http://slackbuilds.org/apps/ganv/
+https://slackbuilds.org/apps/gauche/
 
-http://slackbuilds.org/apps/gauche/
+https://slackbuilds.org/apps/gbrainy/
 
-http://slackbuilds.org/apps/gbrainy/
+https://slackbuilds.org/apps/gcp/
 
-http://slackbuilds.org/apps/gcp/
+https://slackbuilds.org/apps/geany/
 
-http://slackbuilds.org/apps/geany/
+https://slackbuilds.org/apps/geany-plugins/
 
-http://slackbuilds.org/apps/geany-plugins/
+https://slackbuilds.org/apps/giblib/
 
-http://slackbuilds.org/apps/giblib/
+https://slackbuilds.org/apps/gisto/
 
-http://slackbuilds.org/apps/gisto/
+https://slackbuilds.org/apps/gloox/
 
-http://slackbuilds.org/apps/gloox/
+https://slackbuilds.org/apps/glpk/
 
-http://slackbuilds.org/apps/glpk/
+https://slackbuilds.org/apps/gmrun/
 
-http://slackbuilds.org/apps/gmrun/
+https://slackbuilds.org/apps/gmtp/
 
-http://slackbuilds.org/apps/gmtp/
+https://slackbuilds.org/apps/gnonlin/
 
-http://slackbuilds.org/apps/gnonlin/
+https://slackbuilds.org/apps/gnustep-startup/
 
-http://slackbuilds.org/apps/gnustep-startup/
+https://slackbuilds.org/apps/google-appengine-gosdk/
 
-http://slackbuilds.org/apps/google-appengine-gosdk/
+https://slackbuilds.org/apps/google-appengine-pysdk/
 
-http://slackbuilds.org/apps/google-appengine-pysdk/
+https://slackbuilds.org/apps/google-droid-fonts/
 
-http://slackbuilds.org/apps/google-droid-fonts/
+https://slackbuilds.org/apps/gottet/
 
-http://slackbuilds.org/apps/gottet/
+https://slackbuilds.org/apps/gq/
 
-http://slackbuilds.org/apps/gq/
+https://slackbuilds.org/apps/groovy/
 
-http://slackbuilds.org/apps/groovy/
+https://slackbuilds.org/apps/gtk-engines/
 
-http://slackbuilds.org/apps/gtk-engines/
+https://slackbuilds.org/apps/gtk-kde4/
 
-http://slackbuilds.org/apps/gtk-kde4/
+https://slackbuilds.org/apps/gtkextra/
 
-http://slackbuilds.org/apps/gtkextra/
+https://slackbuilds.org/apps/hexedit/
 
-http://slackbuilds.org/apps/hexedit/
+https://slackbuilds.org/apps/hipchat/
 
-http://slackbuilds.org/apps/hipchat/
+https://slackbuilds.org/apps/imlib2/
 
-http://slackbuilds.org/apps/imlib2/
+https://slackbuilds.org/apps/iojs/
 
-http://slackbuilds.org/apps/iojs/
+https://slackbuilds.org/apps/ip2location-c/
 
-http://slackbuilds.org/apps/ip2location-c/
+https://slackbuilds.org/apps/ipv6calc/
 
-http://slackbuilds.org/apps/ipv6calc/
+https://slackbuilds.org/apps/jeex/
 
-http://slackbuilds.org/apps/jeex/
+https://slackbuilds.org/apps/jokosher/
 
-http://slackbuilds.org/apps/jokosher/
+https://slackbuilds.org/apps/jpegoptim/
 
-http://slackbuilds.org/apps/jpegoptim/
+https://slackbuilds.org/apps/jsmin/
 
-http://slackbuilds.org/apps/jsmin/
+https://slackbuilds.org/apps/kde-gtk-config/
 
-http://slackbuilds.org/apps/kde-gtk-config/
+https://slackbuilds.org/apps/knights/
 
-http://slackbuilds.org/apps/knights/
+https://slackbuilds.org/apps/komparator4/
 
-http://slackbuilds.org/apps/komparator4/
+https://slackbuilds.org/apps/leafpad/
 
-http://slackbuilds.org/apps/leafpad/
+https://slackbuilds.org/apps/leiningen/
 
-http://slackbuilds.org/apps/leiningen/
+https://slackbuilds.org/apps/libdesktop-agnostic/
 
-http://slackbuilds.org/apps/libdesktop-agnostic/
+https://slackbuilds.org/apps/libgcrypt15/
 
-http://slackbuilds.org/apps/libgcrypt15/
+https://slackbuilds.org/apps/libmediainfo/
 
-http://slackbuilds.org/apps/libmediainfo/
+https://slackbuilds.org/apps/libnova/
 
-http://slackbuilds.org/apps/libnova/
+https://slackbuilds.org/apps/libtar/
 
-http://slackbuilds.org/apps/libtar/
+https://slackbuilds.org/apps/libzen/
 
-http://slackbuilds.org/apps/libzen/
+https://slackbuilds.org/apps/licq/
 
-http://slackbuilds.org/apps/licq/
+https://slackbuilds.org/apps/lighttable/
 
-http://slackbuilds.org/apps/lighttable/
+https://slackbuilds.org/apps/linux-libertine-fonts/
 
-http://slackbuilds.org/apps/linux-libertine-fonts/
+https://slackbuilds.org/apps/lutris/
 
-http://slackbuilds.org/apps/lutris/
+https://slackbuilds.org/apps/mcrl2/
 
-http://slackbuilds.org/apps/mcrl2/
+https://slackbuilds.org/apps/mdp/
 
-http://slackbuilds.org/apps/mdp/
+https://slackbuilds.org/apps/mediainfo/
 
-http://slackbuilds.org/apps/mediainfo/
+https://slackbuilds.org/apps/mediainfo-gui/
 
-http://slackbuilds.org/apps/mediainfo-gui/
+https://slackbuilds.org/apps/medit/
 
-http://slackbuilds.org/apps/medit/
+https://slackbuilds.org/apps/mednafen/
 
-http://slackbuilds.org/apps/mednafen/
+https://slackbuilds.org/apps/mirage/
 
-http://slackbuilds.org/apps/mirage/
+https://slackbuilds.org/apps/mit-scheme/
 
-http://slackbuilds.org/apps/mit-scheme/
+https://slackbuilds.org/apps/mlton/
 
-http://slackbuilds.org/apps/mlton/
+https://slackbuilds.org/apps/mozjpeg/
 
-http://slackbuilds.org/apps/mozjpeg/
+https://slackbuilds.org/apps/musique/
 
-http://slackbuilds.org/apps/musique/
+https://slackbuilds.org/apps/neutral/
 
-http://slackbuilds.org/apps/neutral/
+https://slackbuilds.org/apps/nightingale/
 
-http://slackbuilds.org/apps/nightingale/
+https://slackbuilds.org/apps/ninja-ide/
 
-http://slackbuilds.org/apps/ninja-ide/
+https://slackbuilds.org/apps/nodejs/
 
-http://slackbuilds.org/apps/nodejs/
+https://slackbuilds.org/apps/nsudoku/
 
-http://slackbuilds.org/apps/nsudoku/
+https://slackbuilds.org/apps/openoffice.org/
 
-http://slackbuilds.org/apps/openoffice.org/
+https://slackbuilds.org/apps/patchage/
 
-http://slackbuilds.org/apps/patchage/
+https://slackbuilds.org/apps/pitivi/
 
-http://slackbuilds.org/apps/pitivi/
+https://slackbuilds.org/apps/pngquant/
 
-http://slackbuilds.org/apps/pngquant/
+https://slackbuilds.org/apps/python-e_dbus/
 
-http://slackbuilds.org/apps/python-e_dbus/
+https://slackbuilds.org/apps/python-elementary/
 
-http://slackbuilds.org/apps/python-elementary/
+https://slackbuilds.org/apps/python-emotion/
 
-http://slackbuilds.org/apps/python-emotion/
+https://slackbuilds.org/apps/python-ethumb/
 
-http://slackbuilds.org/apps/python-ethumb/
+https://slackbuilds.org/apps/python-evas/
 
-http://slackbuilds.org/apps/python-evas/
+https://slackbuilds.org/apps/qhull/
 
-http://slackbuilds.org/apps/qhull/
+https://slackbuilds.org/apps/qt3/
 
-http://slackbuilds.org/apps/qt3/
+https://slackbuilds.org/apps/quilt/
 
-http://slackbuilds.org/apps/quilt/
+https://slackbuilds.org/apps/qutepart/
 
-http://slackbuilds.org/apps/qutepart/
+https://slackbuilds.org/apps/ratpoison/
 
-http://slackbuilds.org/apps/ratpoison/
+https://slackbuilds.org/apps/recode/
 
-http://slackbuilds.org/apps/recode/
+https://slackbuilds.org/apps/ripit/
 
-http://slackbuilds.org/apps/ripit/
+https://slackbuilds.org/apps/scite/
 
-http://slackbuilds.org/apps/scite/
+https://slackbuilds.org/apps/scrot/
 
-http://slackbuilds.org/apps/scrot/
+https://slackbuilds.org/apps/simsu/
 
-http://slackbuilds.org/apps/simsu/
+https://slackbuilds.org/apps/skype4pidgin/
 
-http://slackbuilds.org/apps/skype4pidgin/
+https://slackbuilds.org/apps/smalltalk/
 
-http://slackbuilds.org/apps/smalltalk/
+https://slackbuilds.org/apps/spacefm/
 
-http://slackbuilds.org/apps/spacefm/
+https://slackbuilds.org/apps/spin/
 
-http://slackbuilds.org/apps/spin/
+https://slackbuilds.org/apps/sqlitebrowser/
 
-http://slackbuilds.org/apps/sqlitebrowser/
+https://slackbuilds.org/apps/src-vcs/
 
-http://slackbuilds.org/apps/src-vcs/
+https://slackbuilds.org/apps/stardict/
 
-http://slackbuilds.org/apps/stardict/
+https://slackbuilds.org/apps/superkey-launch/
 
-http://slackbuilds.org/apps/superkey-launch/
+https://slackbuilds.org/apps/supertuxkart/
 
-http://slackbuilds.org/apps/supertuxkart/
+https://slackbuilds.org/apps/tagtool/
 
-http://slackbuilds.org/apps/tagtool/
+https://slackbuilds.org/apps/terminology/
 
-http://slackbuilds.org/apps/terminology/
+https://slackbuilds.org/apps/textadept/
 
-http://slackbuilds.org/apps/textadept/
+https://slackbuilds.org/apps/thunderpad/
 
-http://slackbuilds.org/apps/thunderpad/
+https://slackbuilds.org/apps/tilda/
 
-http://slackbuilds.org/apps/tilda/
+https://slackbuilds.org/apps/tinyterm/
 
-http://slackbuilds.org/apps/tinyterm/
+https://slackbuilds.org/apps/tinyvm/
 
-http://slackbuilds.org/apps/tinyvm/
+https://slackbuilds.org/apps/ttf-ubuntu-font-family/
 
-http://slackbuilds.org/apps/ttf-ubuntu-font-family/
+https://slackbuilds.org/apps/ucl/
 
-http://slackbuilds.org/apps/ucl/
+https://slackbuilds.org/apps/uemacs/
 
-http://slackbuilds.org/apps/uemacs/
+https://slackbuilds.org/apps/uwm/
 
-http://slackbuilds.org/apps/uwm/
+https://slackbuilds.org/apps/vlock/
 
-http://slackbuilds.org/apps/vlock/
+https://slackbuilds.org/apps/watchman/
 
-http://slackbuilds.org/apps/watchman/
+https://slackbuilds.org/apps/wbar/
 
-http://slackbuilds.org/apps/wbar/
+https://slackbuilds.org/apps/wcd/
 
-http://slackbuilds.org/apps/wcd/
+https://slackbuilds.org/apps/winetricks/
 
-http://slackbuilds.org/apps/winetricks/
+https://slackbuilds.org/apps/wmii/
 
-http://slackbuilds.org/apps/wmii/
+https://slackbuilds.org/apps/wput/
 
-http://slackbuilds.org/apps/wput/
+https://slackbuilds.org/apps/wxGTK/
 
-http://slackbuilds.org/apps/wxGTK/
+https://slackbuilds.org/apps/xinetd/
 
-http://slackbuilds.org/apps/xinetd/
+https://slackbuilds.org/apps/xpad/
 
-http://slackbuilds.org/apps/xpad/
+https://slackbuilds.org/apps/xspacewarp/
 
-http://slackbuilds.org/apps/xspacewarp/
+https://slackbuilds.org/apps/zed/
 
-http://slackbuilds.org/apps/zed/
-
-http://slackbuilds.org/apps/zyGrib/
+https://slackbuilds.org/apps/zyGrib/
 
