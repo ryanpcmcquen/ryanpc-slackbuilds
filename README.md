@@ -2,8 +2,6 @@ https://slackbuilds.org/apps/LOIC/
 
 https://slackbuilds.org/apps/SDL_gfx/
 
-https://slackbuilds.org/apps/allegro/
-
 https://slackbuilds.org/apps/alloy/
 
 https://slackbuilds.org/apps/asterixInspector/
@@ -50,8 +48,6 @@ https://slackbuilds.org/apps/dina-font/
 
 https://slackbuilds.org/apps/dmg2img/
 
-https://slackbuilds.org/apps/dosbox/
-
 https://slackbuilds.org/apps/dwb/
 
 https://slackbuilds.org/apps/ebe/
@@ -69,8 +65,6 @@ https://slackbuilds.org/apps/extrema/
 https://slackbuilds.org/apps/fbdump/
 
 https://slackbuilds.org/apps/flow/
-
-https://slackbuilds.org/apps/freeciv/
 
 https://slackbuilds.org/apps/ganttproject/
 
