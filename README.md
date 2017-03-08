@@ -36,11 +36,7 @@ https://slackbuilds.org/apps/cronie/
 
 https://slackbuilds.org/apps/dina-font/
 
-https://slackbuilds.org/apps/dwb/
-
 https://slackbuilds.org/apps/ebe/
-
-https://slackbuilds.org/apps/enigma/
 
 https://slackbuilds.org/apps/enki/
 
@@ -49,8 +45,6 @@ https://slackbuilds.org/apps/extrema/
 https://slackbuilds.org/apps/fbdump/
 
 https://slackbuilds.org/apps/flow/
-
-https://slackbuilds.org/apps/ganv/
 
 https://slackbuilds.org/apps/gauche/
 
@@ -68,8 +62,6 @@ https://slackbuilds.org/apps/glpk/
 
 https://slackbuilds.org/apps/gmtp/
 
-https://slackbuilds.org/apps/gnonlin/
-
 https://slackbuilds.org/apps/gnustep-startup/
 
 https://slackbuilds.org/apps/google-appengine-gosdk/
@@ -77,8 +69,6 @@ https://slackbuilds.org/apps/google-appengine-gosdk/
 https://slackbuilds.org/apps/google-appengine-pysdk/
 
 https://slackbuilds.org/apps/google-droid-fonts/
-
-https://slackbuilds.org/apps/gottet/
 
 https://slackbuilds.org/apps/gq/
 
@@ -96,13 +86,7 @@ https://slackbuilds.org/apps/ipv6calc/
 
 https://slackbuilds.org/apps/jeex/
 
-https://slackbuilds.org/apps/jokosher/
-
-https://slackbuilds.org/apps/jpegoptim/
-
 https://slackbuilds.org/apps/jsmin/
-
-https://slackbuilds.org/apps/knights/
 
 https://slackbuilds.org/apps/komparator4/
 
@@ -134,8 +118,6 @@ https://slackbuilds.org/apps/mit-scheme/
 
 https://slackbuilds.org/apps/mlton/
 
-https://slackbuilds.org/apps/mozjpeg/
-
 https://slackbuilds.org/apps/musique/
 
 https://slackbuilds.org/apps/neutral/
@@ -145,8 +127,6 @@ https://slackbuilds.org/apps/nightingale/
 https://slackbuilds.org/apps/nsudoku/
 
 https://slackbuilds.org/apps/openoffice.org/
-
-https://slackbuilds.org/apps/patchage/
 
 https://slackbuilds.org/apps/pitivi/
 
@@ -206,13 +186,9 @@ https://slackbuilds.org/apps/wcd/
 
 https://slackbuilds.org/apps/wmii/
 
-https://slackbuilds.org/apps/wput/
-
 https://slackbuilds.org/apps/xinetd/
 
 https://slackbuilds.org/apps/xpad/
-
-https://slackbuilds.org/apps/xspacewarp/
 
 https://slackbuilds.org/apps/zed/
 
