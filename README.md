@@ -62,8 +62,6 @@ https://slackbuilds.org/apps/gbrainy/
 
 https://slackbuilds.org/apps/gcp/
 
-https://slackbuilds.org/apps/geany-plugins/
-
 https://slackbuilds.org/apps/giblib/
 
 https://slackbuilds.org/apps/gisto/
