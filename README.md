@@ -28,11 +28,7 @@ https://slackbuilds.org/apps/brlcad/
 
 https://slackbuilds.org/apps/burp/
 
-https://slackbuilds.org/apps/cd-discid/
-
 https://slackbuilds.org/apps/cellwriter/
-
-https://slackbuilds.org/apps/colordiff/
 
 https://slackbuilds.org/apps/connman/
 
