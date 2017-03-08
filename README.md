@@ -166,8 +166,6 @@ https://slackbuilds.org/apps/neutral/
 
 https://slackbuilds.org/apps/nightingale/
 
-https://slackbuilds.org/apps/ninja-ide/
-
 https://slackbuilds.org/apps/nsudoku/
 
 https://slackbuilds.org/apps/openoffice.org/
@@ -185,8 +183,6 @@ https://slackbuilds.org/apps/qt3/
 https://slackbuilds.org/apps/quilt/
 
 https://slackbuilds.org/apps/qutepart/
-
-https://slackbuilds.org/apps/ratpoison/
 
 https://slackbuilds.org/apps/ripit/
 
