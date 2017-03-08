@@ -1,7 +1,3 @@
-https://slackbuilds.org/apps/LOIC/
-
-https://slackbuilds.org/apps/SDL_gfx/
-
 https://slackbuilds.org/apps/alloy/
 
 https://slackbuilds.org/apps/asterixInspector/
@@ -68,8 +64,6 @@ https://slackbuilds.org/apps/google-appengine-gosdk/
 
 https://slackbuilds.org/apps/google-appengine-pysdk/
 
-https://slackbuilds.org/apps/google-droid-fonts/
-
 https://slackbuilds.org/apps/gq/
 
 https://slackbuilds.org/apps/groovy/
@@ -103,8 +97,6 @@ https://slackbuilds.org/apps/libzen/
 https://slackbuilds.org/apps/licq/
 
 https://slackbuilds.org/apps/lighttable/
-
-https://slackbuilds.org/apps/linux-libertine-fonts/
 
 https://slackbuilds.org/apps/lutris/
 
@@ -152,8 +144,6 @@ https://slackbuilds.org/apps/smalltalk/
 
 https://slackbuilds.org/apps/spin/
 
-https://slackbuilds.org/apps/sqlitebrowser/
-
 https://slackbuilds.org/apps/src-vcs/
 
 https://slackbuilds.org/apps/stardict/
@@ -167,8 +157,6 @@ https://slackbuilds.org/apps/thunderpad/
 https://slackbuilds.org/apps/tinyterm/
 
 https://slackbuilds.org/apps/tinyvm/
-
-https://slackbuilds.org/apps/ttf-ubuntu-font-family/
 
 https://slackbuilds.org/apps/ucl/
 
