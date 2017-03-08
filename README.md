@@ -6,8 +6,6 @@ https://slackbuilds.org/apps/alloy/
 
 https://slackbuilds.org/apps/asterixInspector/
 
-https://slackbuilds.org/apps/astyle/
-
 https://slackbuilds.org/apps/avant-window-navigator/
 
 https://slackbuilds.org/apps/awn-extras/
