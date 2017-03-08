@@ -132,8 +132,6 @@ https://slackbuilds.org/apps/mcrl2/
 
 https://slackbuilds.org/apps/mdp/
 
-https://slackbuilds.org/apps/mednafen/
-
 https://slackbuilds.org/apps/mirage/
 
 https://slackbuilds.org/apps/mit-scheme/
