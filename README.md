@@ -100,8 +100,6 @@ https://slackbuilds.org/apps/gtk-kde4/
 
 https://slackbuilds.org/apps/gtkextra/
 
-https://slackbuilds.org/apps/hexedit/
-
 https://slackbuilds.org/apps/hipchat/
 
 https://slackbuilds.org/apps/ip2location-c/
