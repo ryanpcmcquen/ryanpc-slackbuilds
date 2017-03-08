@@ -112,8 +112,6 @@ https://slackbuilds.org/apps/jpegoptim/
 
 https://slackbuilds.org/apps/jsmin/
 
-https://slackbuilds.org/apps/kde-gtk-config/
-
 https://slackbuilds.org/apps/knights/
 
 https://slackbuilds.org/apps/komparator4/
