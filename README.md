@@ -110,10 +110,6 @@ https://slackbuilds.org/apps/hexedit/
 
 https://slackbuilds.org/apps/hipchat/
 
-https://slackbuilds.org/apps/imlib2/
-
-https://slackbuilds.org/apps/iojs/
-
 https://slackbuilds.org/apps/ip2location-c/
 
 https://slackbuilds.org/apps/ipv6calc/
@@ -135,8 +131,6 @@ https://slackbuilds.org/apps/komparator4/
 https://slackbuilds.org/apps/leiningen/
 
 https://slackbuilds.org/apps/libdesktop-agnostic/
-
-https://slackbuilds.org/apps/libgcrypt15/
 
 https://slackbuilds.org/apps/libnova/
 
@@ -173,8 +167,6 @@ https://slackbuilds.org/apps/neutral/
 https://slackbuilds.org/apps/nightingale/
 
 https://slackbuilds.org/apps/ninja-ide/
-
-https://slackbuilds.org/apps/nodejs/
 
 https://slackbuilds.org/apps/nsudoku/
 
@@ -245,8 +237,6 @@ https://slackbuilds.org/apps/wcd/
 https://slackbuilds.org/apps/wmii/
 
 https://slackbuilds.org/apps/wput/
-
-https://slackbuilds.org/apps/wxGTK/
 
 https://slackbuilds.org/apps/xinetd/
 
