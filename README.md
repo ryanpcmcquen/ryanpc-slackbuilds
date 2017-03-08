@@ -66,8 +66,6 @@ https://slackbuilds.org/apps/gloox/
 
 https://slackbuilds.org/apps/glpk/
 
-https://slackbuilds.org/apps/gmrun/
-
 https://slackbuilds.org/apps/gmtp/
 
 https://slackbuilds.org/apps/gnonlin/
@@ -85,8 +83,6 @@ https://slackbuilds.org/apps/gottet/
 https://slackbuilds.org/apps/gq/
 
 https://slackbuilds.org/apps/groovy/
-
-https://slackbuilds.org/apps/gtk-engines/
 
 https://slackbuilds.org/apps/gtk-kde4/
 
@@ -187,8 +183,6 @@ https://slackbuilds.org/apps/superkey-launch/
 https://slackbuilds.org/apps/textadept/
 
 https://slackbuilds.org/apps/thunderpad/
-
-https://slackbuilds.org/apps/tilda/
 
 https://slackbuilds.org/apps/tinyterm/
 
