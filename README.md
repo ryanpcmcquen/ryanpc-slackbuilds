@@ -50,8 +50,6 @@ https://slackbuilds.org/apps/enigma/
 
 https://slackbuilds.org/apps/enki/
 
-https://slackbuilds.org/apps/etherape/
-
 https://slackbuilds.org/apps/exaile/
 
 https://slackbuilds.org/apps/extrema/
