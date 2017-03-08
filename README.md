@@ -50,15 +50,11 @@ https://slackbuilds.org/apps/enigma/
 
 https://slackbuilds.org/apps/enki/
 
-https://slackbuilds.org/apps/exaile/
-
 https://slackbuilds.org/apps/extrema/
 
 https://slackbuilds.org/apps/fbdump/
 
 https://slackbuilds.org/apps/flow/
-
-https://slackbuilds.org/apps/ganttproject/
 
 https://slackbuilds.org/apps/ganv/
 
