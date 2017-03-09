@@ -116,17 +116,11 @@ https://slackbuilds.org/apps/textadept/
 
 https://slackbuilds.org/apps/thunderpad/
 
-https://slackbuilds.org/apps/tinyterm/
-
-https://slackbuilds.org/apps/tinyvm/
-
 https://slackbuilds.org/apps/ucl/
 
 https://slackbuilds.org/apps/uemacs/
 
 https://slackbuilds.org/apps/uwm/
-
-https://slackbuilds.org/apps/vlock/
 
 https://slackbuilds.org/apps/watchman/
 
