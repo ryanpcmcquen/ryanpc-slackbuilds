@@ -66,8 +66,6 @@ https://slackbuilds.org/apps/libnova/
 
 https://slackbuilds.org/apps/libtar/
 
-https://slackbuilds.org/apps/libzen/
-
 https://slackbuilds.org/apps/licq/
 
 https://slackbuilds.org/apps/lutris/
