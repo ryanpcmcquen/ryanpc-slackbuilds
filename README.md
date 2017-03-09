@@ -6,19 +6,11 @@ https://slackbuilds.org/apps/avant-window-navigator/
 
 https://slackbuilds.org/apps/awn-extras/
 
-https://slackbuilds.org/apps/betty/
-
 https://slackbuilds.org/apps/bfg/
-
-https://slackbuilds.org/apps/bibus/
 
 https://slackbuilds.org/apps/bigloo/
 
-https://slackbuilds.org/apps/blender/
-
 https://slackbuilds.org/apps/boxcryptor/
-
-https://slackbuilds.org/apps/brackets/
 
 https://slackbuilds.org/apps/brlcad/
 
@@ -32,15 +24,9 @@ https://slackbuilds.org/apps/cronie/
 
 https://slackbuilds.org/apps/dina-font/
 
-https://slackbuilds.org/apps/ebe/
-
 https://slackbuilds.org/apps/enki/
 
-https://slackbuilds.org/apps/extrema/
-
 https://slackbuilds.org/apps/fbdump/
-
-https://slackbuilds.org/apps/flow/
 
 https://slackbuilds.org/apps/gauche/
 
@@ -50,11 +36,7 @@ https://slackbuilds.org/apps/gcp/
 
 https://slackbuilds.org/apps/giblib/
 
-https://slackbuilds.org/apps/gisto/
-
 https://slackbuilds.org/apps/gloox/
-
-https://slackbuilds.org/apps/glpk/
 
 https://slackbuilds.org/apps/gmtp/
 
@@ -63,10 +45,6 @@ https://slackbuilds.org/apps/gnustep-startup/
 https://slackbuilds.org/apps/google-appengine-gosdk/
 
 https://slackbuilds.org/apps/google-appengine-pysdk/
-
-https://slackbuilds.org/apps/gq/
-
-https://slackbuilds.org/apps/groovy/
 
 https://slackbuilds.org/apps/gtk-kde4/
 
@@ -79,8 +57,6 @@ https://slackbuilds.org/apps/ip2location-c/
 https://slackbuilds.org/apps/ipv6calc/
 
 https://slackbuilds.org/apps/jeex/
-
-https://slackbuilds.org/apps/jsmin/
 
 https://slackbuilds.org/apps/komparator4/
 
@@ -96,13 +72,9 @@ https://slackbuilds.org/apps/libzen/
 
 https://slackbuilds.org/apps/licq/
 
-https://slackbuilds.org/apps/lighttable/
-
 https://slackbuilds.org/apps/lutris/
 
 https://slackbuilds.org/apps/mcrl2/
-
-https://slackbuilds.org/apps/mdp/
 
 https://slackbuilds.org/apps/mirage/
 
@@ -122,19 +94,13 @@ https://slackbuilds.org/apps/openoffice.org/
 
 https://slackbuilds.org/apps/pitivi/
 
-https://slackbuilds.org/apps/pngquant/
-
 https://slackbuilds.org/apps/qhull/
 
 https://slackbuilds.org/apps/qt3/
 
-https://slackbuilds.org/apps/quilt/
-
 https://slackbuilds.org/apps/qutepart/
 
 https://slackbuilds.org/apps/ripit/
-
-https://slackbuilds.org/apps/scite/
 
 https://slackbuilds.org/apps/simsu/
 
