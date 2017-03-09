@@ -32,8 +32,6 @@ https://slackbuilds.org/apps/gauche/
 
 https://slackbuilds.org/apps/gbrainy/
 
-https://slackbuilds.org/apps/gcp/
-
 https://slackbuilds.org/apps/giblib/
 
 https://slackbuilds.org/apps/gloox/
