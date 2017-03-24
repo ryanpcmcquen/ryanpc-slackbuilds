@@ -54,8 +54,6 @@ https://slackbuilds.org/apps/ip2location-c/
 
 https://slackbuilds.org/apps/ipv6calc/
 
-https://slackbuilds.org/apps/jeex/
-
 https://slackbuilds.org/apps/komparator4/
 
 https://slackbuilds.org/apps/leiningen/
