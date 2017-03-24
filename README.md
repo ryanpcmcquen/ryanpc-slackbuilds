@@ -56,8 +56,6 @@ https://slackbuilds.org/apps/lutris/
 
 https://slackbuilds.org/apps/mcrl2/
 
-https://slackbuilds.org/apps/mirage/
-
 https://slackbuilds.org/apps/mit-scheme/
 
 https://slackbuilds.org/apps/mlton/
@@ -69,8 +67,6 @@ https://slackbuilds.org/apps/neutral/
 https://slackbuilds.org/apps/nightingale/
 
 https://slackbuilds.org/apps/nsudoku/
-
-https://slackbuilds.org/apps/openoffice.org/
 
 https://slackbuilds.org/apps/qhull/
 
@@ -85,8 +81,6 @@ https://slackbuilds.org/apps/smalltalk/
 https://slackbuilds.org/apps/spin/
 
 https://slackbuilds.org/apps/src-vcs/
-
-https://slackbuilds.org/apps/stardict/
 
 https://slackbuilds.org/apps/textadept/
 
