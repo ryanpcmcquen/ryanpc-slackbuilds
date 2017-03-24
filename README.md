@@ -120,8 +120,6 @@ https://slackbuilds.org/apps/uemacs/
 
 https://slackbuilds.org/apps/uwm/
 
-https://slackbuilds.org/apps/watchman/
-
 https://slackbuilds.org/apps/wbar/
 
 https://slackbuilds.org/apps/wcd/
