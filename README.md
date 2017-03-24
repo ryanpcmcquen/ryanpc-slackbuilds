@@ -26,8 +26,6 @@ https://slackbuilds.org/apps/dina-font/
 
 https://slackbuilds.org/apps/enki/
 
-https://slackbuilds.org/apps/fbdump/
-
 https://slackbuilds.org/apps/gauche/
 
 https://slackbuilds.org/apps/gbrainy/
