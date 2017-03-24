@@ -24,17 +24,11 @@ https://slackbuilds.org/apps/cronie/
 
 https://slackbuilds.org/apps/dina-font/
 
-https://slackbuilds.org/apps/enki/
-
 https://slackbuilds.org/apps/gauche/
-
-https://slackbuilds.org/apps/gbrainy/
 
 https://slackbuilds.org/apps/giblib/
 
 https://slackbuilds.org/apps/gloox/
-
-https://slackbuilds.org/apps/gmtp/
 
 https://slackbuilds.org/apps/gnustep-startup/
 
@@ -84,15 +78,11 @@ https://slackbuilds.org/apps/nsudoku/
 
 https://slackbuilds.org/apps/openoffice.org/
 
-https://slackbuilds.org/apps/pitivi/
-
 https://slackbuilds.org/apps/qhull/
 
 https://slackbuilds.org/apps/qutepart/
 
 https://slackbuilds.org/apps/ripit/
-
-https://slackbuilds.org/apps/simsu/
 
 https://slackbuilds.org/apps/skype4pidgin/
 
@@ -103,8 +93,6 @@ https://slackbuilds.org/apps/spin/
 https://slackbuilds.org/apps/src-vcs/
 
 https://slackbuilds.org/apps/stardict/
-
-https://slackbuilds.org/apps/superkey-launch/
 
 https://slackbuilds.org/apps/textadept/
 
