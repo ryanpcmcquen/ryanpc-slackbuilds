@@ -88,8 +88,6 @@ https://slackbuilds.org/apps/pitivi/
 
 https://slackbuilds.org/apps/qhull/
 
-https://slackbuilds.org/apps/qt3/
-
 https://slackbuilds.org/apps/qutepart/
 
 https://slackbuilds.org/apps/ripit/
