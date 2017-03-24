@@ -14,8 +14,6 @@ https://slackbuilds.org/apps/boxcryptor/
 
 https://slackbuilds.org/apps/burp/
 
-https://slackbuilds.org/apps/cellwriter/
-
 https://slackbuilds.org/apps/connman/
 
 https://slackbuilds.org/apps/cronie/
