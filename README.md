@@ -12,8 +12,6 @@ https://slackbuilds.org/apps/bigloo/
 
 https://slackbuilds.org/apps/boxcryptor/
 
-https://slackbuilds.org/apps/brlcad/
-
 https://slackbuilds.org/apps/burp/
 
 https://slackbuilds.org/apps/cellwriter/
@@ -23,8 +21,6 @@ https://slackbuilds.org/apps/connman/
 https://slackbuilds.org/apps/cronie/
 
 https://slackbuilds.org/apps/dina-font/
-
-https://slackbuilds.org/apps/gauche/
 
 https://slackbuilds.org/apps/giblib/
 
