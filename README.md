@@ -34,8 +34,6 @@ https://slackbuilds.org/apps/komparator4/
 
 https://slackbuilds.org/apps/libdesktop-agnostic/
 
-https://slackbuilds.org/apps/libnova/
-
 https://slackbuilds.org/apps/libtar/
 
 https://slackbuilds.org/apps/licq/
@@ -81,6 +79,4 @@ https://slackbuilds.org/apps/xinetd/
 https://slackbuilds.org/apps/xpad/
 
 https://slackbuilds.org/apps/zed/
-
-https://slackbuilds.org/apps/zyGrib/
 
