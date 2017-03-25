@@ -6,15 +6,11 @@ https://slackbuilds.org/apps/avant-window-navigator/
 
 https://slackbuilds.org/apps/awn-extras/
 
-https://slackbuilds.org/apps/bfg/
-
 https://slackbuilds.org/apps/bigloo/
 
 https://slackbuilds.org/apps/boxcryptor/
 
 https://slackbuilds.org/apps/burp/
-
-https://slackbuilds.org/apps/connman/
 
 https://slackbuilds.org/apps/cronie/
 
@@ -32,15 +28,9 @@ https://slackbuilds.org/apps/gtk-kde4/
 
 https://slackbuilds.org/apps/gtkextra/
 
-https://slackbuilds.org/apps/hipchat/
-
 https://slackbuilds.org/apps/ip2location-c/
 
-https://slackbuilds.org/apps/ipv6calc/
-
 https://slackbuilds.org/apps/komparator4/
-
-https://slackbuilds.org/apps/leiningen/
 
 https://slackbuilds.org/apps/libdesktop-agnostic/
 
@@ -54,8 +44,6 @@ https://slackbuilds.org/apps/lutris/
 
 https://slackbuilds.org/apps/mcrl2/
 
-https://slackbuilds.org/apps/mit-scheme/
-
 https://slackbuilds.org/apps/mlton/
 
 https://slackbuilds.org/apps/musique/
@@ -66,15 +54,11 @@ https://slackbuilds.org/apps/nightingale/
 
 https://slackbuilds.org/apps/nsudoku/
 
-https://slackbuilds.org/apps/qhull/
-
 https://slackbuilds.org/apps/qutepart/
 
 https://slackbuilds.org/apps/ripit/
 
 https://slackbuilds.org/apps/skype4pidgin/
-
-https://slackbuilds.org/apps/smalltalk/
 
 https://slackbuilds.org/apps/spin/
 
@@ -83,10 +67,6 @@ https://slackbuilds.org/apps/src-vcs/
 https://slackbuilds.org/apps/textadept/
 
 https://slackbuilds.org/apps/thunderpad/
-
-https://slackbuilds.org/apps/ucl/
-
-https://slackbuilds.org/apps/uemacs/
 
 https://slackbuilds.org/apps/uwm/
 
