@@ -44,15 +44,11 @@ https://slackbuilds.org/apps/mcrl2/
 
 https://slackbuilds.org/apps/mlton/
 
-https://slackbuilds.org/apps/musique/
-
 https://slackbuilds.org/apps/neutral/
 
 https://slackbuilds.org/apps/nightingale/
 
 https://slackbuilds.org/apps/nsudoku/
-
-https://slackbuilds.org/apps/ripit/
 
 https://slackbuilds.org/apps/skype4pidgin/
 
