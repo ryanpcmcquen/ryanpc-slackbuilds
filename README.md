@@ -52,8 +52,6 @@ https://slackbuilds.org/apps/nightingale/
 
 https://slackbuilds.org/apps/nsudoku/
 
-https://slackbuilds.org/apps/qutepart/
-
 https://slackbuilds.org/apps/ripit/
 
 https://slackbuilds.org/apps/skype4pidgin/
