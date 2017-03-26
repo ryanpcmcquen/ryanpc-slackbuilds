@@ -28,8 +28,6 @@ https://slackbuilds.org/apps/gtk-kde4/
 
 https://slackbuilds.org/apps/gtkextra/
 
-https://slackbuilds.org/apps/ip2location-c/
-
 https://slackbuilds.org/apps/komparator4/
 
 https://slackbuilds.org/apps/libdesktop-agnostic/
