@@ -10,8 +10,6 @@ https://slackbuilds.org/apps/bigloo/
 
 https://slackbuilds.org/apps/boxcryptor/
 
-https://slackbuilds.org/apps/burp/
-
 https://slackbuilds.org/apps/cronie/
 
 https://slackbuilds.org/apps/giblib/
