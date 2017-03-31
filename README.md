@@ -42,15 +42,11 @@ https://slackbuilds.org/apps/neutral/
 
 https://slackbuilds.org/apps/nightingale/
 
-https://slackbuilds.org/apps/nsudoku/
-
 https://slackbuilds.org/apps/skype4pidgin/
 
 https://slackbuilds.org/apps/spin/
 
 https://slackbuilds.org/apps/src-vcs/
-
-https://slackbuilds.org/apps/textadept/
 
 https://slackbuilds.org/apps/thunderpad/
 
@@ -63,8 +59,4 @@ https://slackbuilds.org/apps/wcd/
 https://slackbuilds.org/apps/wmii/
 
 https://slackbuilds.org/apps/xinetd/
-
-https://slackbuilds.org/apps/xpad/
-
-https://slackbuilds.org/apps/zed/
 
