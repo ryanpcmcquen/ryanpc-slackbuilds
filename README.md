@@ -34,8 +34,6 @@ https://slackbuilds.org/apps/libtar/
 
 https://slackbuilds.org/apps/licq/
 
-https://slackbuilds.org/apps/lutris/
-
 https://slackbuilds.org/apps/mcrl2/
 
 https://slackbuilds.org/apps/mlton/
