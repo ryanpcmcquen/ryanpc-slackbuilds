@@ -2,7 +2,7 @@
 
 # Slackware build script for Firefox Developer Edition
 
-# Ryan P. C. McQuen | Everett, WA | ryanpcmcquen@member.fsf.org
+# Ryan P. C. McQuen | Everett, WA
 
 
 PRGNAM=fde
